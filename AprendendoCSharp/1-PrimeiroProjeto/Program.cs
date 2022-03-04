@@ -6,7 +6,7 @@ namespace _1_PrimeiroProjeto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Project on Visual Studio");
         }
     }
 }
