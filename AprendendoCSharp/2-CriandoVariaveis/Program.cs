@@ -12,7 +12,7 @@ namespace _2_CriandoVariaveis
             idade = 32;
 
             float salario;
-            salario = 1450;
+            salario = 14500;
 
             Console.WriteLine("Sir you are " + idade + " years old and your current salary is $ " + salario);
             Console.ReadLine();
