@@ -13,6 +13,7 @@ namespace _2_CriandoVariaveis
 
             double salario;
             salario = 1350.00;
+            salario.ToString("0.00");
 
             Console.WriteLine("Sir you are " + idade + " years old and your current salary is $ " + salario);
             Console.ReadLine();
