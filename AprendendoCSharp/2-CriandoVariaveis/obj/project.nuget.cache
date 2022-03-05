@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hyjy4OAO7fpRM7j/HTYPpe++ScdkT3NzmTXFOpcAMEGuv+zP01nDu1NqFoU+2dlSSAH5fWXaP4npJNvuWXfdag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
