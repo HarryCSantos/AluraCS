@@ -11,6 +11,10 @@ namespace _2_CriandoVariaveis
             int idade;
             idade = 32;
 
+            idade = 10;
+            Console.WriteLine(idade);
+
+            idade = 10 + 5;
             Console.WriteLine(idade);
 
             Console.WriteLine("Execução finalizada. Tecle enter para sair!");
