@@ -7,7 +7,6 @@ namespace _1_PrimeiroProjeto
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! Project on Visual Studio");
-            Console.WriteLine("Please type enter to finish the current program!");
             Console.ReadLine();
         }
     }
