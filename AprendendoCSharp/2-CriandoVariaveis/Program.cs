@@ -14,7 +14,7 @@ namespace _2_CriandoVariaveis
             float salario;
             salario = 1450;
 
-            Console.WriteLine("Execução finalizada. Tecle enter para sair!");
+            Console.WriteLine("Sir you are " + idade + " years old and your current salary is $ " + salario);
             Console.ReadLine();
         }
     }
