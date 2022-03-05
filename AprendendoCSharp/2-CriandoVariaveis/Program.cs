@@ -6,7 +6,7 @@ namespace _2_CriandoVariaveis
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Executando projeto 2 - Criando Variaveis");
         }
     }
 }
