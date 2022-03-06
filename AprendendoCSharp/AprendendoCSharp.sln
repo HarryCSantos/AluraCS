@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-PrimeiroProjeto", "1-PrimeiroProjeto\1-PrimeiroProjeto.csproj", "{0307AFF3-107E-4EC1-A668-FF52D176061C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{EC81A604-835F-4B34-9203-2A3DD6507D3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{EC81A604-835F-4B34-9203-2A3DD6507D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariavesPontoFlutuante", "3-CriandoVariavesPontoFlutuante\3-CriandoVariavesPontoFlutuante.csproj", "{65F65D1A-51EA-4C26-8B55-EB7B5D6FCD47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EC81A604-835F-4B34-9203-2A3DD6507D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC81A604-835F-4B34-9203-2A3DD6507D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC81A604-835F-4B34-9203-2A3DD6507D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F65D1A-51EA-4C26-8B55-EB7B5D6FCD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F65D1A-51EA-4C26-8B55-EB7B5D6FCD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F65D1A-51EA-4C26-8B55-EB7B5D6FCD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F65D1A-51EA-4C26-8B55-EB7B5D6FCD47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

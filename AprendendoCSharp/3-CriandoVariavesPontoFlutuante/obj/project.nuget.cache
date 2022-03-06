@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMnAyR0I1XVx93hdv+7FV8jWUCyLf5QF1SUfKLlmbPXElH1syEqYwioTeje3oVfSL7fV38/JQoJh2YnU3Acogw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\3-CriandoVariavesPontoFlutuante\\3-CriandoVariavesPontoFlutuante.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
