@@ -8,10 +8,10 @@ namespace _3_CriandoVariavesPontoFlutuante
         {
             Console.WriteLine("Executando projeto 3 criando variaveis ponto flutuante");
 
-            float salario;
-            salario = 1380.50f;
+            double salario;
+            salario = 1380.50;
 
-            Console.WriteLine("Seu salário é de " + salario + "R$");
+            Console.WriteLine("Seu salário é de R$ " + salario);
 
             Console.WriteLine("A execução terminou. Tecle enter para sair...");
             Console.ReadLine();
