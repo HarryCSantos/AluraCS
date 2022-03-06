@@ -8,6 +8,7 @@ namespace _3_CriandoVariavesPontoFlutuante
         {
             Console.WriteLine("Executando projeto 3 criando variaveis ponto flutuante");
             Console.WriteLine("A execução terminou. Tecle enter para sair...");
+            Console.ReadLine("Tecle enter para sair");
         }
     }
 }
