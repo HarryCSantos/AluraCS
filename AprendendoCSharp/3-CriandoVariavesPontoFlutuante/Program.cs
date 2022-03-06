@@ -7,6 +7,7 @@ namespace _3_CriandoVariavesPontoFlutuante
         static void Main(string[] args)
         {
             Console.WriteLine("Executando projeto 3 criando variaveis ponto flutuante");
+            //double é um dos três tipo que aceitam numeros não inteiros
 
             double salario;
             salario = 1380.50;
