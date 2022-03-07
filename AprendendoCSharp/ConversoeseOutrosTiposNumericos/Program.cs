@@ -16,12 +16,10 @@ namespace ConversoeseOutrosTiposNumericos
             Console.WriteLine(salarioemInteiro);
 
             // O long é uma variavel de 64 bits
-            long idade;
-            idade = 130000000000;
+            long idade = 130000000000;
 
             // O short é um tipo de variavel de 16 bits
-            short quantidadedeProdutos;
-            quantidadedeProdutos = 16000;
+            short quantidadedeProdutos = 16000;
 
             float altura = 1.80f;
 
