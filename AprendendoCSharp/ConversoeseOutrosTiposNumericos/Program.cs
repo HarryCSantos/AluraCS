@@ -26,9 +26,13 @@ namespace ConversoeseOutrosTiposNumericos
             Console.WriteLine(idade);
 
             // O short é um tipo de variavel de 16 bits
+            // A variável "short" é de 16 bits, ou seja, o valor NÃO pode ser MAIOR que 16 mil.
             short quantidadedeProdutos = 16000;
-            Console.WriteLine(quantidadedeProdutos);
+            Console.WriteLine(quantidadedeProdutos); // As sinalizações verdes são warnings ou seja avisos de que declaramos as variáveis e, depois, não as utilizamos por isso a declaramos, incluindo o "Console.WriteLine().
 
+            // A difereça do float para o tipo double é que o float tem uma precisão curta de números suportados nas casas decimais ao contrário do double, que suporta uma precisão maior.
+            // O C# costuma interpretar um número com ponto flutuante como um "double" - o que significa que estamos tentando colocar esse valor dentro de um float. 
+            // Para sermos bem sucedidos nesta tarefa, teremos que adicionar um sufixo "f", justamente por ser incomum o uso do float.
             float altura = 1.80f;
             Console.WriteLine(altura);
 
