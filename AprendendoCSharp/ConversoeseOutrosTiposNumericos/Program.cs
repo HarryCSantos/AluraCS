@@ -20,9 +20,8 @@ namespace ConversoeseOutrosTiposNumericos
             Para especificar que o double será int colocamos entre parêntes como está no exemplo abaixo
             O nome dessa operação é conhecido como "casting". Dessa forma deixamos claro para o compilador o que estamos fazendo.
             */
-            int salarioemInteiro = (int)salario;
 
-            Console.WriteLine(salarioemInteiro);
+            Console.WriteLine(salario);
 
             // O long é uma variavel de 64 bits
             // O tipo "long" não é tão utilizado justamente por ocupar mais espaço na memória. Por isso, o tipo "int" ainda é o mais utilizado.
