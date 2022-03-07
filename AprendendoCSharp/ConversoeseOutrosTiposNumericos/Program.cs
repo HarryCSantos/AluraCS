@@ -23,8 +23,13 @@ namespace ConversoeseOutrosTiposNumericos
             */
 
             double valor1 = 0.2;
+            double valor2 = 0.1;
+            double total = valor1 + valor2;
+
+            Console.WriteLine(total);
 
             Console.WriteLine(valor);
+
             Console.WriteLine(salario); 
 
 
