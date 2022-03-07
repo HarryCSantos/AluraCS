@@ -13,3 +13,4 @@ C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\Conversoese
 C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\ConversoeseOutrosTiposNumericos\obj\Debug\net5.0\ref\4-ConversoeseOutrosTiposNumericos.dll
 C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\ConversoeseOutrosTiposNumericos\obj\Debug\net5.0\4-ConversoeseOutrosTiposNumericos.pdb
 C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\ConversoeseOutrosTiposNumericos\obj\Debug\net5.0\4-ConversoeseOutrosTiposNumericos.genruntimeconfig.cache
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\ConversoeseOutrosTiposNumericos\obj\Debug\net5.0\4-ConversoeseOutrosTiposNumericos.csproj.AssemblyReference.cache

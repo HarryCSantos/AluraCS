@@ -26,6 +26,8 @@ namespace ConversoeseOutrosTiposNumericos
             float altura = 1.80f;
             Console.WriteLine(altura);
 
+            Console.ReadLine();
+
 
 
         }
