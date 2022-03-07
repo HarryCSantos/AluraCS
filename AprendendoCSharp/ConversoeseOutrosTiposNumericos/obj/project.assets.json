@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\ConversoeseOutrosTiposNumericos\\ConversoeseOutrosTiposNumericos.csproj",
-      "projectName": "ConversoeseOutrosTiposNumericos",
-      "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\ConversoeseOutrosTiposNumericos\\ConversoeseOutrosTiposNumericos.csproj",
+      "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\ConversoeseOutrosTiposNumericos\\4-ConversoeseOutrosTiposNumericos.csproj",
+      "projectName": "4-ConversoeseOutrosTiposNumericos",
+      "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\ConversoeseOutrosTiposNumericos\\4-ConversoeseOutrosTiposNumericos.csproj",
       "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\ConversoeseOutrosTiposNumericos\\obj\\",
       "projectStyle": "PackageReference",
