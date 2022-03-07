@@ -8,8 +8,7 @@ namespace ConversoeseOutrosTiposNumericos
         {
             Console.WriteLine("Executando o projeto 4");
 
-            double salario;
-            salario = 1200.50;
+            double salario= 1200.50;
 
             // O int é um tipo de variável que suporta valores de até 32 bits
             int salarioemInteiro;
@@ -24,6 +23,9 @@ namespace ConversoeseOutrosTiposNumericos
             // O short é um tipo de variavel de 16 bits
             short quantidadedeProdutos;
             quantidadedeProdutos = 16000;
+
+            float altura = 1.80f;
+
 
 
         }
