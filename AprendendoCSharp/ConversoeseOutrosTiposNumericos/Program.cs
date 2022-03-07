@@ -8,9 +8,14 @@ namespace ConversoeseOutrosTiposNumericos
         {
             Console.WriteLine("Executando o projeto 4");
 
+            //Double - adimite valores com ponto e também admite números inteiros;
             double salario = 1200.50;
 
-            // O int é um tipo de variável que suporta valores de até 32 bits
+            /*int só admite números inteiros
+            O int é um tipo de variável que suporta valores de até 32 bits
+            Para especificar que o double será int colocamos entre parêntes como está no exemplo abaixo
+            O nome dessa operação é conhecido como "casting". Dessa forma deixamos claro para o compilador o que estamos fazendo.
+            */
             int salarioemInteiro = (int)salario;
 
             Console.WriteLine(salarioemInteiro);
@@ -26,7 +31,7 @@ namespace ConversoeseOutrosTiposNumericos
             float altura = 1.80f;
             Console.WriteLine(altura);
 
-            Console.ReadLine();
+            Console.ReadLine(); 
 
 
 
