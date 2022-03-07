@@ -10,6 +10,7 @@ namespace ConversoeseOutrosTiposNumericos
 
             //Double - adimite valores com ponto e também admite números inteiros;
             double salario = 1200.50;
+            int valor = salario;
 
             /*int só admite números inteiros
             O int é um tipo de variável que suporta valores de até 32 bits
