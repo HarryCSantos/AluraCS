@@ -9,7 +9,7 @@ namespace ConversoeseOutrosTiposNumericos
             Console.WriteLine("Executando o projeto 4");
 
             //Double - adimite valores com ponto e também admite números inteiros;
-            double salario = 1200.50;
+            double salario = 1270.50;
             //int valor = salario;// Esse exemplo de código não compila uma vez que estamos tentando atribuir uma váriável "double" dentro de uma variável "int"
             // Existe uma forma de fazer com que esse código compile. Para isso usaremos o que chamamos de CASTING que é o exemplo abaixo
             int valor = (int)salario;
