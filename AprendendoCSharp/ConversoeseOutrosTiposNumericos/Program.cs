@@ -21,6 +21,7 @@ namespace ConversoeseOutrosTiposNumericos
             O nome dessa operação é conhecido como "casting". Dessa forma deixamos claro para o compilador o que estamos fazendo.
             */
 
+            Console.WriteLine(valor);
             Console.WriteLine(salario);
 
             // O long é uma variavel de 64 bits
