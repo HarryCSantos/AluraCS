@@ -23,6 +23,7 @@ namespace ConversoeseOutrosTiposNumericos
             */
 
             float pontoFlutuante = 3.17f;
+            Console.WriteLine(pontoFlutuante);
 
             double valor1 = 0.2;
             double valor2 = 0.1;
