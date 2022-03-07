@@ -12,7 +12,8 @@ namespace ConversoeseOutrosTiposNumericos
             double salario = 1270.50;
             //int valor = salario;// Esse exemplo de código não compila uma vez que estamos tentando atribuir uma váriável "double" dentro de uma variável "int"
             // Existe uma forma de fazer com que esse código compile. Para isso usaremos o que chamamos de CASTING que é o exemplo abaixo
-            int valor = (int)salario;
+            
+            int valor = (int)salario; // Quando fazemos o CASTING estamos pedindo ao C# que ache uma forma de transformar o valor ao lado direito do (int), no nosso caso, a variável salario, em inteiro. Dessa forma o C# transformará em "double" para "int"
             //Repare que o CASTING é usado colocando a variável int em parênteses
 
             /*int só admite números inteiros
@@ -21,8 +22,12 @@ namespace ConversoeseOutrosTiposNumericos
             O nome dessa operação é conhecido como "casting". Dessa forma deixamos claro para o compilador o que estamos fazendo.
             */
 
+            double valor1 = 0.2;
+
             Console.WriteLine(valor);
-            Console.WriteLine(salario);
+            Console.WriteLine(salario); 
+
+
 
             // O long é uma variavel de 64 bits
             // O tipo "long" não é tão utilizado justamente por ocupar mais espaço na memória. Por isso, o tipo "int" ainda é o mais utilizado.
