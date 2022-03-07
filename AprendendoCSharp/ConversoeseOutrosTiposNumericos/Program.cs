@@ -13,6 +13,7 @@ namespace ConversoeseOutrosTiposNumericos
             //int valor = salario;// Esse exemplo de código não compila uma vez que estamos tentando atribuir uma váriável "double" dentro de uma variável "int"
             // Existe uma forma de fazer com que esse código compile. Para isso usaremos o que chamamos de CASTING que é o exemplo abaixo
             int valor = (int)salario;
+            //Repare que o CASTING é usado colocando a variável int em parênteses
 
             /*int só admite números inteiros
             O int é um tipo de variável que suporta valores de até 32 bits
