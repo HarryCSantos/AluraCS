@@ -21,6 +21,7 @@ namespace ConversoeseOutrosTiposNumericos
             Console.WriteLine(salarioemInteiro);
 
             // O long é uma variavel de 64 bits
+            // O tipo "long" não é tão utilizado justamente por ocupar mais espaço na memória. Por isso, o tipo "int" ainda é o mais utilizado.
             long idade = 130000000000;
             Console.WriteLine(idade);
 
