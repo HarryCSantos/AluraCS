@@ -22,6 +22,8 @@ namespace ConversoeseOutrosTiposNumericos
             O nome dessa operação é conhecido como "casting". Dessa forma deixamos claro para o compilador o que estamos fazendo.
             */
 
+            float pontoFlutuante = 3.17f;
+
             double valor1 = 0.2;
             double valor2 = 0.1;
             double total = valor1 + valor2;
