@@ -14,6 +14,8 @@ namespace ConversoeseOutrosTiposNumericos
             int salarioemInteiro;
             salarioemInteiro = (int)salario;
 
+            Console.WriteLine(salarioemInteiro);
+
         }
     }
 }
