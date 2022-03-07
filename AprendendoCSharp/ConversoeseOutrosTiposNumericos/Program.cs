@@ -8,11 +8,10 @@ namespace ConversoeseOutrosTiposNumericos
         {
             Console.WriteLine("Executando o projeto 4");
 
-            double salario= 1200.50;
+            double salario = 1200.50;
 
             // O int é um tipo de variável que suporta valores de até 32 bits
-            int salarioemInteiro;
-            salarioemInteiro = (int)salario;
+            int salarioemInteiro = (int)salario;
 
             Console.WriteLine(salarioemInteiro);
 
