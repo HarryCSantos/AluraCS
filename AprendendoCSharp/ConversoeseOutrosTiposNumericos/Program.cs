@@ -11,6 +11,7 @@ namespace ConversoeseOutrosTiposNumericos
             double salario;
             salario = 1200.50;
 
+            // O int é um tipo de variável que suporta valores de até 32 bits
             int salarioemInteiro;
             salarioemInteiro = (int)salario;
 
