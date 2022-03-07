@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-Cri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariavesPontoFlutuante", "3-CriandoVariavesPontoFlutuante\3-CriandoVariavesPontoFlutuante.csproj", "{65F65D1A-51EA-4C26-8B55-EB7B5D6FCD47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversoeseOutrosTiposNumericos", "ConversoeseOutrosTiposNumericos\ConversoeseOutrosTiposNumericos.csproj", "{F9FDA165-CF52-4689-A74B-822586759EC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversoeseOutrosTiposNumericos", "ConversoeseOutrosTiposNumericos\4-ConversoeseOutrosTiposNumericos.csproj", "{F9FDA165-CF52-4689-A74B-822586759EC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

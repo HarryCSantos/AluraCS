@@ -16,6 +16,13 @@ namespace ConversoeseOutrosTiposNumericos
 
             Console.WriteLine(salarioemInteiro);
 
+            long idade;
+            idade = 130000000000;
+
+            short quantidadedeProdutos;
+            quantidadedeProdutos = 16000;
+
+
         }
     }
 }
