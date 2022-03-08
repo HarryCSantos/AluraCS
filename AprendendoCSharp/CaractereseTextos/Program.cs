@@ -21,7 +21,7 @@ namespace CaractereseTextos
             Console.WriteLine(primeiraLetra);
 
             string titulo = "Alura Cursos de tecnologia " + 2020;
-            string cursosProgramacao = "- .Net" + " - Java" +
+            string cursosProgramacao = "- .Net" + " - Java" + " - Javascript";
 
             primeiraLetra = (char) (primeiraLetra + 1);
             Console.WriteLine(primeiraLetra);
