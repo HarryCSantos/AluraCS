@@ -18,12 +18,13 @@ namespace CaractereseTextos
             Console.WriteLine(primeiraLetra);
 
             primeiraLetra = (char)61;
-            Console.WriteLine(primeiraLetra); 
+            Console.WriteLine(primeiraLetra);
 
-
+            // No momento em que usamos @, o compilador vai considerar tudo entre as aspas e o texto, inclusive o espaço. Para solucionar o tema, posso remover os espaços entre os cursos.
+            // O
             string curso = "Alura Cursos de tecnologia " + 2020;
             string cursosProgramacao = 
-@" - .NET
+@" - .NET   
  - Java
  - Javascript";
             Console.WriteLine(cursosProgramacao);
