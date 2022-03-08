@@ -23,7 +23,8 @@ namespace CaractereseTextos
 
             string curso = "Alura Cursos de tecnologia " + 2020;
             string cursosProgramacao = @"- .Net
-                - Java" + " - Javascript";
+                - Java
+                - Javascript";
             Console.WriteLine(cursosProgramacao);
 
 
