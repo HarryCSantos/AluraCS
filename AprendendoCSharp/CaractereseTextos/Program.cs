@@ -19,6 +19,8 @@ namespace CaractereseTextos
             primeiraLetra = (char)65;
             Console.WriteLine(primeiraLetra);
 
+            primeiraLetra = (primeiraLetra + 1);
+
             Console.ReadLine();
         }
     }
