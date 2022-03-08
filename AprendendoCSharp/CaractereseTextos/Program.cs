@@ -19,7 +19,7 @@ namespace CaractereseTextos
             primeiraLetra = (char)65;
             Console.WriteLine(primeiraLetra);
 
-            primeiraLetra = (primeiraLetra + 1);
+            primeiraLetra = (char) (primeiraLetra + 1);
 
             Console.ReadLine();
         }
