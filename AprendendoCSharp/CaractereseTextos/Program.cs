@@ -14,7 +14,7 @@ namespace CaractereseTextos
             * isto porque existe diferenças entre um caractere e um texto.*/
 
             // o espaço também é considerado um caracter
-            char primeiraLetra = ' ';
+            char primeiraLetra = 'b';
             Console.WriteLine(primeiraLetra);
 
             primeiraLetra = (char)61;
