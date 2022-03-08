@@ -20,6 +20,7 @@ namespace CaractereseTextos
             Console.WriteLine(primeiraLetra);
 
             primeiraLetra = (char) (primeiraLetra + 1);
+            Console.WriteLine(primeiraLetra);
 
             Console.ReadLine();
         }
