@@ -13,7 +13,8 @@ namespace CaractereseTextos
             * colocaremos 'a'. Neste caso, inserimos a letra entre aspas simples,
             * isto porque existe diferenças entre um caractere e um texto.*/
 
-            char primeiraLetra = '';
+            // o espaço também é considerado um caracter
+            char primeiraLetra = ' ';
             Console.WriteLine(primeiraLetra);
 
             primeiraLetra = (char)61;
