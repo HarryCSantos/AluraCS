@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0YBzihE7nUB4kUpeP4UsV/K3+eOAUHd9+QXWyqKe1Oa36thuZWcoDKjdF8gdc9Mftkk/ZqZf83xRwe7xz81DLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\CaractereseTextos\\5-CaractereseTextos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
