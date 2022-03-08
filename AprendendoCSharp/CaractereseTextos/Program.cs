@@ -22,6 +22,9 @@ namespace CaractereseTextos
             primeiraLetra = (char) (primeiraLetra + 1);
             Console.WriteLine(primeiraLetra);
 
+            string titulo = "Alura Cursos de Tecnologia";
+            C
+
             Console.ReadLine();
         }
     }
