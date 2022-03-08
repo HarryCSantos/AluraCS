@@ -32,7 +32,7 @@ namespace CaractereseTextos
             // Agora é possível criar uma string única com várias linhas, sem concatenação. Mas a impressão não ficará perfeita.
             // No momento em que usamos @, o compilador vai considerar tudo entre as aspas e o texto, inclusive o espaço. Para solucionar o tema, posso remover os espaços entre os cursos.
             // O @ permite a impressão multilinha com uma unica string
-            string curso = "Alura Cursos de tecnologia " + 2020;
+            string curso = "Alura Cursos de tecnologia  " +  2020;
             string cursosProgramacao = 
 @" - .NET   
  - Java
@@ -43,7 +43,7 @@ namespace CaractereseTextos
             primeiraLetra = (char) (primeiraLetra + 1);
             Console.WriteLine(primeiraLetra);
 
-            string titulo = "Alura Cursos de Tecnologia" + 2020;
+            string titulo = "Alura Cursos de Tecnologia " + 2020;
             Console.WriteLine(titulo);
 
             Console.ReadLine();
