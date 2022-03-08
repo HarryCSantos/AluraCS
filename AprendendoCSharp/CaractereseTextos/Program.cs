@@ -9,10 +9,14 @@ namespace CaractereseTextos
             Console.WriteLine("Executando o projeto 5 - Caracteres e textos");
 
             // character
-            char primeiraLetra = 'a';
-            Console.WriteLine(primeiraLetra);
+/*Quando trabalhamos com caracteres dentro da variável, no caso, 
+ * colocaremos 'a'. Neste caso, inserimos a letra entre aspas simples,
+ * isto porque existe diferenças entre um caractere e um texto.
 
-            Console.ReadLine();
-        }
-    }
+char primeiraLetra = 'a';
+Console.WriteLine(primeiraLetra);
+
+Console.ReadLine();
+}
+}
 }

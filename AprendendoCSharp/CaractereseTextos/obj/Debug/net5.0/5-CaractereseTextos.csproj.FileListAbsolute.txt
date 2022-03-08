@@ -1,0 +1,16 @@
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\bin\Debug\net5.0\5-CaractereseTextos.exe
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\bin\Debug\net5.0\5-CaractereseTextos.deps.json
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\bin\Debug\net5.0\5-CaractereseTextos.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\bin\Debug\net5.0\5-CaractereseTextos.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\bin\Debug\net5.0\5-CaractereseTextos.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\bin\Debug\net5.0\ref\5-CaractereseTextos.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\bin\Debug\net5.0\5-CaractereseTextos.pdb
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\obj\Debug\net5.0\5-CaractereseTextos.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\obj\Debug\net5.0\5-CaractereseTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\obj\Debug\net5.0\5-CaractereseTextos.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\obj\Debug\net5.0\5-CaractereseTextos.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\obj\Debug\net5.0\5-CaractereseTextos.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\obj\Debug\net5.0\5-CaractereseTextos.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\obj\Debug\net5.0\ref\5-CaractereseTextos.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\obj\Debug\net5.0\5-CaractereseTextos.pdb
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\CaractereseTextos\obj\Debug\net5.0\5-CaractereseTextos.genruntimeconfig.cache

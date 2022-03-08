@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariavesPontoFlutu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ConversoeseOutrosTiposNumericos", "ConversoeseOutrosTiposNumericos\4-ConversoeseOutrosTiposNumericos.csproj", "{F9FDA165-CF52-4689-A74B-822586759EC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaractereseTextos", "CaractereseTextos\CaractereseTextos.csproj", "{7DF655B1-31F5-499D-BA01-95407C0C3028}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaractereseTextos", "CaractereseTextos\5-CaractereseTextos.csproj", "{7DF655B1-31F5-499D-BA01-95407C0C3028}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
