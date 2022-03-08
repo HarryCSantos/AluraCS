@@ -6,7 +6,7 @@ namespace CaractereseTextos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Executando o projeto 5 - Caracteres e textos");
         }
     }
 }
