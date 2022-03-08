@@ -17,6 +17,10 @@ namespace CaractereseTextos
             char primeiraLetra = 'b';
             Console.WriteLine(primeiraLetra);
 
+
+            char letra = 'a';
+
+
             primeiraLetra = (char)61;
             Console.WriteLine(primeiraLetra);
 
