@@ -10,6 +10,7 @@ namespace CaractereseTextos
 
             // character
             char primeiraLetra = 'a';
+            Console.WriteLine(primeiraLetra);
 
             Console.ReadLine();
         }
