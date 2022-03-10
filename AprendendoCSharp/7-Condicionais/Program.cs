@@ -13,7 +13,11 @@ namespace _7_Condicionais
             if (idadeJoao > 18)
             {
 
+                Console.WriteLine("João possui mais de 18 anos de idade. Pode entrar.");
+
             }
+
+            Console.ReadLine();
 
         }
     }
