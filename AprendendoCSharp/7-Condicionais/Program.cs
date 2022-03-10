@@ -10,6 +10,10 @@ namespace _7_Condicionais
 
             int idadeJoao = 16;
 
+            if (idadeJoao > 18)
+            {
+
+            }
 
         }
     }
