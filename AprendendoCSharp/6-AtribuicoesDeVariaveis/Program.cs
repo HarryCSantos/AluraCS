@@ -6,11 +6,10 @@ namespace _6_AtribuicoesDeVariaveis
     {
         static void Main(string[] args)
         {
-            int idade = 32;
-            int 
-
             Console.WriteLine("Executando Projeto 6");
-            Console
+
+            int idade = 32;
+            int idadeSeverino = idade;
 
             Console.ReadLine();
         }
