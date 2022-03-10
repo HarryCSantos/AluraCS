@@ -22,7 +22,7 @@ namespace _7_Condicionais
                 {
                     Console.WriteLine("João não possui mais de 18 anos, mas está acompanhado. Pode entrar");
                 }
-                Console.WriteLine("João não possui mais de 18 anos de idade. Portanto não pode entrar.");
+                Console.WriteLine("João não possui mais de 18 anos de idade e não está acompanhado. Portanto não pode entrar.");
             }
 
             Console.ReadLine();
