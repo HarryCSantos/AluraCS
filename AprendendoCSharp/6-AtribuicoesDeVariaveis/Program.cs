@@ -11,6 +11,9 @@ namespace _6_AtribuicoesDeVariaveis
             int idade = 32;
             int idadeSeverino = idade;
 
+            Console.WriteLine(idade);
+            Console.WriteLine(idadeSeverino);
+
             Console.ReadLine();
         }
     }
