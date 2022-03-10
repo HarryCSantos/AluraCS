@@ -15,7 +15,7 @@ namespace _6_AtribuicoesDeVariaveis
 
             Console.WriteLine(idade);
             Console.WriteLine(idadeSeverino);
-
+             
             Console.ReadLine();
         }
     }

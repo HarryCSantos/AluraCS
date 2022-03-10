@@ -1,0 +1,16 @@
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\bin\Debug\net5.0\7-Condicionais.exe
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\bin\Debug\net5.0\7-Condicionais.deps.json
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\bin\Debug\net5.0\7-Condicionais.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\bin\Debug\net5.0\7-Condicionais.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\bin\Debug\net5.0\7-Condicionais.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\bin\Debug\net5.0\ref\7-Condicionais.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\bin\Debug\net5.0\7-Condicionais.pdb
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net5.0\7-Condicionais.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net5.0\7-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net5.0\7-Condicionais.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net5.0\7-Condicionais.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net5.0\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net5.0\7-Condicionais.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net5.0\ref\7-Condicionais.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net5.0\7-Condicionais.pdb
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net5.0\7-Condicionais.genruntimeconfig.cache
