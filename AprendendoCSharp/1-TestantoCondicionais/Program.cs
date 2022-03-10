@@ -22,6 +22,10 @@ namespace _1_TestantoCondicionais
                 {
                     Console.WriteLine("Você não tem 18 anos, mas pode entrar, pois está acompanhado");
                 }
+                else
+                {
+                    Console.WriteLine("Infelizmente você não pode entrar pois é menor de idade e não está acompanhado");
+                }
             }
 
             Console.ReadLine();
