@@ -6,7 +6,7 @@ namespace _7_Condicionais
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando projeto 7- Condicionais");
+            Console.WriteLine("Executando projeto 7 - Condicionais");
 
             int idadeJoao = 16;
 
