@@ -16,6 +16,13 @@ namespace _1_TestantoCondicionais
                 Console.WriteLine("Você tem mais que 18 anos");
                 Console.WriteLine("Seja bem vindo");
             }
+            else
+            {
+                if (quantidadePessoas >= 2)
+                {
+                    Console.WriteLine("Você não tem 18 anos, mas pode entrar, pois está acompanhado");
+                }
+            }
 
             Console.ReadLine();
 
