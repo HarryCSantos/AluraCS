@@ -7,6 +7,9 @@ namespace _1_TestantoCondicionais
         static void Main(string[] args)
         {
             Console.WriteLine("Testando condicionais");
+
+            int idade = 20;
+
         }
     }
 }
