@@ -6,7 +6,7 @@ namespace _7_Condicionais
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Executando projeto 7- Condicionais");
         }
     }
 }
