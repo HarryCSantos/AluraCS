@@ -16,6 +16,8 @@ namespace _1_TestantoCondicionais
                 Console.WriteLine("Seja bem vindo");
             }
 
+            Console.ReadLine();
+
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\bin\Debug\net5.0\1-TestantoCondicionais.exe
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\bin\Debug\net5.0\1-TestantoCondicionais.deps.json
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\bin\Debug\net5.0\1-TestantoCondicionais.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\bin\Debug\net5.0\1-TestantoCondicionais.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\bin\Debug\net5.0\1-TestantoCondicionais.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\bin\Debug\net5.0\ref\1-TestantoCondicionais.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\bin\Debug\net5.0\1-TestantoCondicionais.pdb
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\obj\Debug\net5.0\1-TestantoCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\obj\Debug\net5.0\1-TestantoCondicionais.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\obj\Debug\net5.0\1-TestantoCondicionais.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\obj\Debug\net5.0\1-TestantoCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\obj\Debug\net5.0\1-TestantoCondicionais.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\obj\Debug\net5.0\ref\1-TestantoCondicionais.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\obj\Debug\net5.0\1-TestantoCondicionais.pdb
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\AprendendoCSharp\1-TestantoCondicionais\obj\Debug\net5.0\1-TestantoCondicionais.genruntimeconfig.cache
