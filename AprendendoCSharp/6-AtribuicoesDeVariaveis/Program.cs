@@ -6,7 +6,7 @@ namespace _6_AtribuicoesDeVariaveis
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Executando Projeto 6");
         }
     }
 }
