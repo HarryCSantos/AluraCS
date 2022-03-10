@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\1-TestantoCondicionais\\7-TestantoCondicionais.csproj",
-      "projectName": "7-TestantoCondicionais",
-      "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\1-TestantoCondicionais\\7-TestantoCondicionais.csproj",
+      "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\CaractereseTextos\\5-CaractereseTextos.csproj",
+      "projectName": "5-CaractereseTextos",
+      "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\CaractereseTextos\\5-CaractereseTextos.csproj",
       "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\1-TestantoCondicionais\\obj\\",
+      "outputPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\CaractereseTextos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config",

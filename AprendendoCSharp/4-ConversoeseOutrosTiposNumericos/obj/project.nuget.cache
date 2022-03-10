@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S7r3RbhRIiK5tg9SGUG+kNkI8Sxri+0YRBbR/vvh+CE2agTwMgzfwDN3+e2Mps9y1EsfO2B3pBbIUSV/QUKkcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\ConversoeseOutrosTiposNumericos\\4-ConversoeseOutrosTiposNumericos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

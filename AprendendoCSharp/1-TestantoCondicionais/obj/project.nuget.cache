@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3fAYJUCScrdGTuEJk943ClpiCZ1hr8i93JBGB0lyG/sySV/qwCOBW3Cm2D9xG1ujT9rjblzRaARfswwwzdF2VA==",
+  "dgSpecHash": "wdQjQFoMUb0p+jbKJUFKHmlR4JvQgd65Fm9rRx1A/bbSJoVe3Xb9472dHE5m0Etus3VlvCvFAyKwoTOD2BiCKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\1-TestantoCondicionais\\1-TestantoCondicionais.csproj",
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\1-TestantoCondicionais\\7-TestantoCondicionais.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
