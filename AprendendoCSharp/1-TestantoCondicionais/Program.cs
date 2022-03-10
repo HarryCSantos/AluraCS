@@ -13,6 +13,7 @@ namespace _1_TestantoCondicionais
             if (idade >= 18)
             {
                 Console.WriteLine("Você tem mais que 18 anos");
+                Console.WriteLine("Seja bem vindo");
             }
 
         }
