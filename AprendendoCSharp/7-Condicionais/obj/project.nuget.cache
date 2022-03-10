@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ma12Gd/XGnhz7O+n1NZols45BnOQ3qGeLbpGFaYH4+/fRK4WLA6imJ3areltjS5mrmjI2qXv/T2Kqo6hNmRlbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\AprendendoCSharp\\7-Condicionais\\7-Condicionais.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
