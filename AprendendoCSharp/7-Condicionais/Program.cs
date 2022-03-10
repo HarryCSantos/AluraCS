@@ -8,7 +8,7 @@ namespace _7_Condicionais
         {
             Console.WriteLine("Executando projeto 7 - Condicionais");
 
-            int idadeJoao = 18;
+            int idadeJoao = 15;
 
             if (idadeJoao >= 18)
             {
