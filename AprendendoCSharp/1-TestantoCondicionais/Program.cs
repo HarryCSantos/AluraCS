@@ -20,7 +20,7 @@ namespace _1_TestantoCondicionais
             {
                 if (quantidadePessoas >= 2)
                 {
-                    Console.WriteLine("Você não tem 18 anos, mas pode entrar, "+ "pois está acompanhado.");
+                    Console.WriteLine("Você não tem 18 anos, mas pode entrar, " + "pois está acompanhado.");
                 }
                 else
                 {
