@@ -8,7 +8,7 @@ namespace _1_TestantoCondicionais
         {
             Console.WriteLine("Testando condicionais");
 
-            int idade = 20;
+            int idade = 17;
             int quantidadePessoas = 3;
             
             if (idade >= 18)
