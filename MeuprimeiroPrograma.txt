@@ -4,6 +4,6 @@ class Program
 {	
 	static void Main(string[] args)
 	{
-		Console.WriteLine(" Learning cs everyday is amazing ");
+		Console.WriteLine("Everything is good at the moment!");
 	}
 }
