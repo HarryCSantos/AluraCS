@@ -4,6 +4,20 @@ class Program
 {	
 	static void Main(string[] args)
 	{
-		Console.WriteLine("Everything is good at the moment!");
+		Console.WriteLine("Executando programa teste de variáveis");
+				
+		int idade;
+		idade = 32;
+
+		Console.WriteLine(idade);
+
+
+
+
+
+
+
+
+
 	}
 }
