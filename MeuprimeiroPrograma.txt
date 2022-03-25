@@ -9,7 +9,7 @@ class Program
 		int idade;
 		idade = (32 + 5) * 7;
 
-		Console.WriteLine("Sua idade é =" + idade " anos");
+		Console.WriteLine(idade);
 
 		
 
