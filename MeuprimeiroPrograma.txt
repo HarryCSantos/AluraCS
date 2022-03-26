@@ -84,6 +84,9 @@ class program {
 
 		Console.WriteLine(salarioEmInteiro);
 
+		long idade = 130000000000000;
+		Console.WriteLiene(idade);
+
 
 
 	}
