@@ -58,7 +58,8 @@ class Program
 	{
 		Console.WriteLine("Executando projeto 3 - Criando Var.Flutuante")
 		double salario;
-		
+		salario = 1200.70;
+		Console.WriteLine(salario);
 
 
 
