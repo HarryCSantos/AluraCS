@@ -60,12 +60,11 @@ class Program
 
 		double salario;
 		salario = 1200.70;
-
-		Console.WriteLine(salario);
-
+		
 		double idade;
-		idade = 15 / 2.0;
-		Console.WriteLine(idade);
+		idade = 44 / 2.0;
+		
+		Console.WriteLine("Atualmente o Sr(a) tem " + idade + " anos de 		idade e o seu salário corresponde a " + salario);		
 
 	}
 }
