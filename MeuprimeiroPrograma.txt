@@ -1,4 +1,4 @@
-<!--using System;
+/*using System;
 
 class Program
 {	
@@ -9,7 +9,7 @@ class Program
 		int idade;
 		idade = (32 + 5) * 7;
 
-		Console.WriteLine("O Sr(a) tem " + idade + " anos de idade, ainda é muito jovem :)"); -->
+		Console.WriteLine("O Sr(a) tem " + idade + " anos de idade, ainda é muito jovem :)"); */
 
 using System;
 
