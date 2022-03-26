@@ -57,6 +57,15 @@ class Program
 	static void Main(string[] args)
 	{
 		Console.WriteLine("Executando projeto 3 - Criando Var.Flutuante")
+		double salario;
+		
+
+
+
+
+	}
+}
+
 
 		
 
