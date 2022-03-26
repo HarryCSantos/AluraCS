@@ -27,6 +27,10 @@ using System;
 		Console.WriteLine(" |   |");
 		Console.WriteLine(" '~~~'");
 
+		Console.WriteLine(" c_      ___");
+		Console.WriteLine("   \\\\  __|__|__ I'm Awesome!");
+
+
 
 
 
