@@ -36,6 +36,8 @@ using System;
 		Console.WriteLine("       \\  )    c/");
 		Console.WriteLine("       / /");
 		Console.WriteLine("      / /|");
+		Console.WriteLine("     (  ( \\");
+		Console.WriteLine("     |  |  \\");
 		
 				
 
