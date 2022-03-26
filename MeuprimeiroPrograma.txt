@@ -80,7 +80,7 @@ class program {
 		
 		int salario = 1200;
 
-		int salarioEmInteiro = (double)salario;
+		double salarioEmInteiro = (double)salario;
 
 		Console.WriteLine(salarioEmInteiro);
 
