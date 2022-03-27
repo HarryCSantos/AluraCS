@@ -118,8 +118,8 @@ class Program
 		int teste = 2147483647; // This is the Max Number of int any number upper this don't will be compiled.
 		Console.WriteLine(teste);
 
-		int number;
-		Console.WriteLine(number);
+		Int alias = 100;
+		Console.WriteLine(alias);
 		
 }
 	}		
