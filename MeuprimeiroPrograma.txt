@@ -121,8 +121,8 @@ class Program
 		int alias = 100;
 		Console.WriteLine(alias);
 
-		Int32 alias = 100;
-		Console.WriteLine(alias);
+		Int32 alia = 100;
+		Console.WriteLine(alia);
 		
 }
 	}		
