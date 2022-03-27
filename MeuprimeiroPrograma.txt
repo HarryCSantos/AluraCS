@@ -115,8 +115,11 @@ class Program
 		string nameUpper = name.ToUpper();
 		Console.WriteLine(nameUpper);
 		
-		int teste = 2147483647;
+		int teste = 2147483647; // This is the Max Number of int any number upper this don't will be compiled.
 		Console.WriteLine(teste);
+
+		int number;
+		Console.WriteLine(number);
 		
 }
 	}		
