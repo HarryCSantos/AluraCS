@@ -67,7 +67,7 @@ class Program
 		Console.WriteLine("Atualmente o Sr(a) tem " + idade + " anos de idade e o seu salário corresponde a R$ " + salario );		
 
 	}
-}		*/
+}		
 
 
 using System;
@@ -84,14 +84,16 @@ class program {
 
 		Console.WriteLine(salarioEmInteiro);
 
-		long idade = 1300000000000000;
+		long idade = 1300000000000002222;
 		Console.WriteLine(idade);
-
+		
+		float altura = 1.80f;
+		Console.WriteLine(altura);
 
 
 	}
 
-}
+}		*/
 
 
 		
