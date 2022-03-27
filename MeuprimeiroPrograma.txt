@@ -124,9 +124,13 @@ class Program
 		Int32 alia = 100;
 		Console.WriteLine(alia);
 
-		const int age = 30; // Const don't allow change the value 
+		int age = 30; // Const don't allow change the value 
 		age = 30;
 		Console.WriteLine(age);
+
+		var survey = new Survey("How much are you programmer? ");
+		Console.Writeline(survey);
+		
 		
 }
 	}		
