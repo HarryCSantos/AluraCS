@@ -96,7 +96,19 @@ class program {
 }		*/
 
 
-		
+using System;
+
+class Program
+{
+	static void Main()
+	{
+		string name = "Harry Conceição";
+		int age = 32;
+		DateTime today = DateTime.Now;
+
+		Console.WriteLine(name + age + DateTime);
+	}
+}		
 
 
 
