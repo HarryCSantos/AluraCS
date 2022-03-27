@@ -128,7 +128,7 @@ class Program
 		age = 30;
 		Console.WriteLine(age);
 
-		var survey = new Survey("How much are you programmer? ");
+		var survey = ("How much are you programmer? ");
 		Console.Writeline(survey);
 		
 		
