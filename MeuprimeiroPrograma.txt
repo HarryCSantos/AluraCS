@@ -115,8 +115,8 @@ class Program
 		string nameUpper = name.ToUpper();
 		Console.WriteLine(nameUpper);
 		
-		int teste = 2147483647
-		Console.WriteLine(teste)
+		int teste = 2147483647;
+		Console.WriteLine(teste);
 		
 }
 	}		
