@@ -111,10 +111,15 @@ class Program
 		int minValue = int.MinValue;
 		Console.WriteLine(minValue);
 
-		string name = "Harry";
+		string name = "harry";
 		string nameUpper = name.ToUpper();
 		Console.WriteLine(nameUpper);
-}		
+		
+		int teste = 2147483647
+		Console.WriteLine(teste)
+		
+}
+	}		
 
 
 
