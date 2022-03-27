@@ -124,8 +124,8 @@ class Program
 		Int32 alia = 100;
 		Console.WriteLine(alia);
 
-		int age = 30;
-		age = 50;
+		const int age = 30; // Const don't allow change the value 
+		age = 30;
 		Console.WriteLine(age);
 		
 }
