@@ -141,6 +141,11 @@ class Program
 	static void Main(string[] args)
 	{
 		Console.WriteLine("Executando teste de programa variáves");
+
+		int idade;
+		idade = 32;
+		Console.WriteLine(idade);
+		
 	}
 
 }
