@@ -93,7 +93,7 @@ class program {
 
 	}
 
-}		*/
+}		
 
 
 using System;
@@ -128,12 +128,22 @@ class Program
 		age = 30;
 		Console.WriteLine(age);
 
-		var survey = ("How much are you programmer? ");
-		Console.Writeline(survey);
+		
 		
 		
 }
-	}	
+	}	*/
+
+
+using System;
+class Program
+{
+	static void System(string[] args)
+	{
+		Console.WriteLine("Executando teste de programa variáves")
+	}
+
+}
 
 	
 
