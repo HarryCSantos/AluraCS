@@ -138,7 +138,7 @@ class Program
 using System;
 class Program
 {
-	static void System()
+	static void Main()
 	{
 		Console.WriteLine("Executando teste de programa variáves");
 	}
