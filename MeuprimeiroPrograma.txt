@@ -145,8 +145,8 @@ class Program
 		char ch = 'H';
 		Console.WriteLine(ch); // The System.Char data type is used to hold a single, unicode character. C# has an alias for it, called char, which you can use when declaring your char variables:
 
-		string ch = "Harry";
-		Console.WriteLine(ch);
+		string h = "Harry";
+		Console.WriteLine(h);
 		
 	}
 
