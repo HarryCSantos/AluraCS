@@ -167,6 +167,9 @@ class Program
 
 	string cd = "Harry está praticando a sintese padrão do C#";
 	Console.WriteLine(cd);
+
+	int idade = 32;
+	Console.WriteLine(idade);
 		
 	}
 }
