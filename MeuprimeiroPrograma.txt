@@ -179,6 +179,9 @@ class Program
 
 	double ida = 15 / 2;
 	Console.WriteLine(ida);
+
+	double id = 15.0 / 2;
+	Console.WriteLine(id);
 			
 	}
 }
