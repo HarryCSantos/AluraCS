@@ -164,6 +164,9 @@ class Program
 
 	char ch = 'a';
 	Console.WriteLine(ch);
+
+	string cd = "Harry está praticando a sintese padrão do C#";
+	Console.WriteLine(cd);
 		
 	}
 }
