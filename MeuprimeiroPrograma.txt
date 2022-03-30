@@ -162,7 +162,7 @@ class Program
 	
 	Console.WriteLine("Executando prática de estrutura padrão C#");	
 
-	char ch = 'Ha';
+	char ch = 'a';
 	Console.WriteLine(ch);
 		
 	}
