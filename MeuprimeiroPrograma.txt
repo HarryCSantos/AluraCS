@@ -171,7 +171,8 @@ class Program
 	int idade = 32;
 	Console.WriteLine(idade);
 
-	double mercadoria = 400.00;
+	double mercadoria;
+	mercadoria = 400.00;
 	Console.WriteLine(mercadoria);
 		
 	}
