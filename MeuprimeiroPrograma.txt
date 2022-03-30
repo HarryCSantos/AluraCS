@@ -173,6 +173,9 @@ class Program
 
 	double mercadoria = 400.43;
 	Console.WriteLine("R$ " + mercadoria);
+
+	int diasDoMes = 30;
+	Console.WriteLine(diasDoMes);
 		
 	}
 }
