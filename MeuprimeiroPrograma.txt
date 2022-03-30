@@ -172,7 +172,7 @@ class Program
 	Console.WriteLine(idade);
 
 	double mercadoria;
-	mercadoria = 400.00;
+	mercadoria = 400.70;
 	Console.WriteLine(mercadoria);
 		
 	}
