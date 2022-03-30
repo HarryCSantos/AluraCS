@@ -176,7 +176,10 @@ class Program
 
 	int diasDoMes = 30;
 	Console.WriteLine(diasDoMes);
-		
+
+	double idade = 15 / 2;
+	Console.WriteLine(idade);
+			
 	}
 }
 
