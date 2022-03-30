@@ -161,6 +161,9 @@ class Program
 	{
 	
 	Console.WriteLine("Executando prática de estrutura padrão C#");	
+
+	char ch = 'H';
+	Console.WriteLine("Executando prática de estrutura padrão C#");
 		
 	}
 }
