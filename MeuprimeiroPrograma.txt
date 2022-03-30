@@ -157,7 +157,7 @@ using System;
 
 class Program 
 {
-	static void Main(args[] string)
+	static void Main(string[] args)
 	{
 	
 	Console.WriteLine("Executando prática de estrutura padrão C#");	
