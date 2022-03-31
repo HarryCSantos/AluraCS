@@ -150,7 +150,7 @@ class Program
 		
 	}
 
-}	*/
+}	
 
 
 using System;
@@ -201,7 +201,7 @@ class Program
 	Console.WriteLine(let);
 			
 	}
-}
+}		*/
 
 using sistem;
 class Program 
