@@ -183,12 +183,16 @@ class Program
 	double id = 15.0 / 2;
 	Console.WriteLine(id);
 
-	double salario;
-	salario = 1200.50;
+	int salario;
+	salario = 1200;
 
 	int salarioEmInteiro;
-	salarioEmInteiro = (int) salario;
+	salarioEmInteiro = (int) salario; // estamos fazendo o cast observe
 	Console.WriteLine(salarioEmInteiro);
+
+	int teste;
+	teste = 2000000000; // O tipo inteiro ocupa um espaço na memória do computador que é de 32 bits sendo que suporta um num de até 2 bilhões.
+	
 			
 	}
 }
