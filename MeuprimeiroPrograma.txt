@@ -188,6 +188,7 @@ class Program
 
 	int salarioEmInteiro;
 	salarioEmInteiro = (int) salario;
+	Console.WriteLine(salarioEmInteiro);
 			
 	}
 }
