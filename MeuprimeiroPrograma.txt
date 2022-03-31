@@ -192,7 +192,7 @@ class Program
 
 	int teste;
 	teste = 2000000000; // O tipo inteiro ocupa um espaço na memória do computador que é de 32 bits sendo que suporta um num de até 2 bilhões.
-	
+	Console.WriteLine(teste);	
 			
 	}
 }
