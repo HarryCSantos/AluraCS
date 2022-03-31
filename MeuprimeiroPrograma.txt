@@ -182,6 +182,9 @@ class Program
 
 	double id = 15.0 / 2;
 	Console.WriteLine(id);
+
+	int salarioEminteiro;
+	salarioEmInteiro = salario;
 			
 	}
 }
