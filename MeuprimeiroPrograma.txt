@@ -191,7 +191,7 @@ class Program
 	Console.WriteLine(salarioEmInteiro);
 
 	int teste;
-	teste = 20000000000 (long); // O tipo inteiro ocupa um espaço na memória do computador que é de 32 bits sendo que suporta um num de até 2 bilhões.
+	teste = 20000000000 (double); // O tipo inteiro ocupa um espaço na memória do computador que é de 32 bits sendo que suporta um num de até 2 bilhões.
 	Console.WriteLine(teste);	
 			
 	}
