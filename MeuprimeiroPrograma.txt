@@ -206,7 +206,7 @@ class Program
 using sistem;
 class Program 
 {
-	static void Main(string[] args);
+	static void Main(string[] args)
 	{
 		
 		Console.WriteLine("Executando prática sintaxe c#");
