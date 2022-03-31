@@ -186,7 +186,7 @@ class Program
 	double salario;
 	salario = 1200.50;
 
-	int salarioEminteiro;
+	int salarioEmInteiro;
 	salarioEmInteiro = salario;
 			
 	}
