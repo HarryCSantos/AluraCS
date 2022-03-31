@@ -196,6 +196,9 @@ class Program
 
 	string dj = "Harry está aqui novamente";
 	Console.WriteLine(dj);
+
+	char let = 'A';
+	Console.WriteLine(let);
 			
 	}
 }
