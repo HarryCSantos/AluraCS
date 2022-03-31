@@ -208,7 +208,8 @@ class Program
 {
 	static void Main(string[] args);
 	{
-
+		
+		Console.WriteLine("Executando prática sintaxe c#")
 
 	}
 
