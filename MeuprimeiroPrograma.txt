@@ -214,7 +214,7 @@ class Program
 		int idade = 32 - 8;
 		Console.WriteLine(idade);
 
-		double termo = 344.87;
+		double termo = 344.87 - 345;
 		Console.WriteLine(termo);
 
 	}
