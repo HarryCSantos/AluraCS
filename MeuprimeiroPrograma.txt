@@ -211,7 +211,7 @@ class Program
 		
 		Console.WriteLine("Executando prática sintaxe c#");
 
-		int idade = 32;
+		int idade = 32 - 8;
 		Console.WriteLine(idade);
 
 	}
