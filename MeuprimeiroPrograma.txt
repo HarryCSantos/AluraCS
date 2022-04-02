@@ -221,7 +221,7 @@ class Program
 		quantidadeProdutos = 32767; 
 		// O tipo sort armazena até 16 bits na memória ou seja um número até 32.767 mil
 
-		float altura = 1.80;
+		float altura = 1.80f;
 		Console.WriteLine(altura);
 		
 		// Qual a diferença do tipo float para o tipo double? O tipo float tem uma precisão curta de números suportados nas casas decimais ao contrário do double, que suporta uma precisão maior,
