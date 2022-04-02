@@ -216,6 +216,10 @@ class Program
 
 		double termo = 344.87 - 345;
 		Console.WriteLine(termo);
+		
+		short quantidadeProdutos;
+		quantidadedeProdutos = 150; 
+		// O tipo sort armazena até 16 bits na memória 
 
 	}
 
