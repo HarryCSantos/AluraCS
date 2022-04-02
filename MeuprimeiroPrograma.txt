@@ -218,7 +218,7 @@ class Program
 		Console.WriteLine(termo);
 		
 		short quantidadeProdutos;
-		quantidadeProdutos = 32768; 
+		quantidadeProdutos = 32767; 
 		// O tipo sort armazena até 16 bits na memória ou seja um número até 32.767 mil
 
 		float altura = 1.80;
