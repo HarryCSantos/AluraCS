@@ -219,7 +219,7 @@ class Program
 		
 		short quantidadeProdutos;
 		quantidadeProdutos = 32768; 
-		// O tipo sort armazena até 16 bits na memória ou seja um número até 16 mil
+		// O tipo sort armazena até 16 bits na memória ou seja um número até 32.767 mil
 		
 		// Qual a diferença do tipo float para o tipo double? O tipo float tem uma precisão curta de números suportados nas casas decimais ao contrário do double, que suporta uma precisão maior,
 
