@@ -235,9 +235,12 @@ class Program
 using System;
 class Program
 {
-	static void Main()
+	static void Main(string[] args)
 	{
 		Console.WriteLine("Teste da Sintaxe padrão do c#");
+
+
+
 	}
 
 }
