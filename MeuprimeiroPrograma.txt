@@ -238,6 +238,8 @@ class Program
 	static void Main(string[] args)
 	{
 		Console.WriteLine("Teste da Sintaxe padrão do c#");
+		
+		int = idade: 34;
 
 
 
