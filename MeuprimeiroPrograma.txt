@@ -240,6 +240,7 @@ class Program
 		Console.WriteLine("Teste da Sintaxe padrão do c#");
 		
 		int = idade: 34;
+		Console.WriteLine(idade);
 
 
 
