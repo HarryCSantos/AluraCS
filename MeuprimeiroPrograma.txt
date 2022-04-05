@@ -256,6 +256,9 @@ class Program
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Prática csharp");
+			
+			int quantcasas = 3;
+			Console.WriteLine(quantcasas);
 		
 		}
 }
