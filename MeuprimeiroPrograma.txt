@@ -263,7 +263,7 @@ class Program
 			double sálario = 1199.43;
 			Console.WriteLine(sálario);
 
-			float salario = 1199.43;
+			float salario = 1199.43f;
 			Console.WriteLine(salario);
 		
 		}
