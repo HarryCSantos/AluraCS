@@ -265,6 +265,9 @@ class Program
 
 			float salario = 1199.43f;
 			Console.WriteLine(salario);
+			
+			string f = "harry";
+			Console.WriteLine(f);
 		
 		}
 }
