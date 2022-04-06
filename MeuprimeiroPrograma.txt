@@ -269,8 +269,11 @@ class Program
 			string f = "harry";
 			Console.WriteLine(f);
 
-			char h = "V";
+			char h = 'V';
 			Console.WriteLine(h);
+
+			short mes = 12;
+			Console.WriteLine(mes);
 		
 		}
 }
