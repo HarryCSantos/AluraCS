@@ -274,6 +274,9 @@ class Program
 
 			short mes = 6000;
 			Console.WriteLine(mes);
+
+			long universo = 13000000000;
+			Console.WriteLine(universo);
 		
 		}
 }
