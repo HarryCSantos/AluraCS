@@ -272,7 +272,7 @@ class Program
 			char h = 'V';
 			Console.WriteLine(h);
 
-			short mes = 5000.45;
+			short mes = 5000;
 			Console.WriteLine(mes);
 		
 		}
