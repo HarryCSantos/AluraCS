@@ -287,7 +287,7 @@ using System;
 {
 	class Program 
 	{
-		static void main (string[] args)
+		static void Main (string[] args)
 		Console.WriteLine("Prática do csharp");
 	}
 
