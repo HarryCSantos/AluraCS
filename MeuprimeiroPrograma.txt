@@ -283,6 +283,18 @@ class Program
 
 
 
+using system;
+{
+	class Program 
+	{
+		static void Main(string[] args)
+		Console.WriteLine("Prática do csharp");
+	}
+
+}
+
+
+
 
 
 
