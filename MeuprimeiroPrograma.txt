@@ -287,9 +287,15 @@ class Program
 {
 	static void Main(string[] args)
 	{
-		Console.WriteLine("Praticando Csharp");
-	}
+		Console.WriteLine("Praticando Csharp - Condicional - If");
 
+		int idadeJoao = 16;
+		
+		if (idadeJoao > 18)
+		{
+			Console.WriteLine("João possui mais de 18 anos de idade. Pode entrar.");
+
+	}
 }
 
 
