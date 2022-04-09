@@ -282,37 +282,37 @@ class Program
 }	*/
 
 
-using System;
-class Program
-{
-	static void Main(string[] args)
+
+	using System;
+	class Program 
 	{
-		Console.WriteLine("Praticando Csharp - Condicional - If");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Executando projeto 7 - Condicionais");
 
-		int idadeJoao = 16;
-		int quantidadePesssoas = 2;
-		
-		if (idadeJoao >= 18)
-		{
-			Console.WriteLine("João possui mais de 18 anos de idade. Pode entrar.");
-		}
-		else
-		{
-			if(quantidadePessoas = 2)
-			{
-				Console.WriteLine("João não possui mais de 18 anos, mas está acompanhado. Pode entrar");
-			}
-			else
-			{
-			Console.WriteLine("João não possui mais de 18 anos, não pode entrar");
-			}
-		    
-		}
+            int idadeJoao = 16;
+            int quantidadePessoas = 2;
 
-	}
+            if (idadeJoao >= 18)
+            {
+                Console.WriteLine("João possui mais de 18 anos de idade. Pode entrar.");
+            }
+            else
+            {
+                if(quantidadePessoas >= 2)
+                {
+                            Console.WriteLine("João não possui mais de 18 anos, mas está acompanhado. Pode entrar");
+                }
+                    else
+                {                
+                        Console.WriteLine("João não possui mais de 18 anos, não pode entrar");
+                }
+            }
+
+            Console.ReadLine();
+        }
+    }
 }
-
-
 
 
 
