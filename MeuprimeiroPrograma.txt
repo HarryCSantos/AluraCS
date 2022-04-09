@@ -290,7 +290,7 @@ class Program
 		Console.WriteLine("Praticando Csharp - Condicional - If");
 
 		int idadeJoao = 16;
-		int quantidadePesssoas = 2;
+		int Pesssoas = 2;
 		
 		if (idadeJoao >= 18)
 		{
@@ -298,7 +298,7 @@ class Program
 		}
 		else
 		{
-			if(quantidadePessoas >= 2)
+			if(Pessoas >= 2)
 			{
 				Console.WriteLine("João não possui mais de 18 anos, mas está acompanhado. Pode entrar");
 			}
@@ -306,7 +306,7 @@ class Program
 			{
 			Console.WriteLine("João não possui mais de 18 anos, não pode entrar");
 			}
-		    }
+		    
 		}
 
 	}
