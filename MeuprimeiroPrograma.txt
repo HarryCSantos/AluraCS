@@ -295,6 +295,10 @@ class Program
 		{
 			Console.WriteLine("João possui mais de 18 anos de idade, pode entrar!");
 		}
+		else
+		{
+			Console.WriteLine("João não possui mais de 18 anos, não pode entrar);
+		}
 
 	}
 }
