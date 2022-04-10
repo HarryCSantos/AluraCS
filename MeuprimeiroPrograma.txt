@@ -291,7 +291,10 @@ class Program
 
 		int idadeJoao =16;
 
-		
+		if (idadeJoao >= 18)
+		{
+			Console.WriteLine("João possui mais de 18 anos de idade, pode entrar!");
+		}
 
 	}
 }
