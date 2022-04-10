@@ -288,6 +288,11 @@ class Program
 	static void Main(string[] args)
 	{
 		Console.WriteLine("Executando prática de condicionais if-else");
+
+		int idadeJoao =16;
+
+		
+
 	}
 }
 
