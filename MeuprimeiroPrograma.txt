@@ -319,7 +319,7 @@ class Program
 	{
 		Console.WriteLine("Executando prática de condicionais if-else");
 
-		int idadeJoao =16;
+		int idadeJoao =18;
 		int quantidadePessoas = 2;
 
 		if (idadeJoao >= 18 && quantidadePessoas >= 2 ) // No csharp o ou não é representado pelo or que é ou em inglês como em outras linguagens e sim pelo pipe essas duas barras na vertical || e o e no csharp se escreve com 2 ecomercial &&
