@@ -379,6 +379,18 @@ class Progra
 	static void Main(string[] args)
 	{
 		Console.WriteLine("Exercício Imposto de Renda");
+		
+		double salario = 3300.0;
+
+		if ( salario > 1900.0 && salario <= 2800.0)
+		{
+			//double aliquote = 7.5;
+			double deducao1 = (salario - 142);
+			Console.WriteLine("A sua dedução do imposto de renda será: " + deducao1);
+		}
+		
+		
+		
 	}
 }
 
