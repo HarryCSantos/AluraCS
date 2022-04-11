@@ -320,7 +320,7 @@ class Program
 		Console.WriteLine("Executando prática de condicionais if-else");
 
 		int idadeJoao =18;
-		int quantidadePessoas = 3;
+		int quantidadePessoas = 2;
 
 		bool acompanhado = quantidadePessoas >= 2; 
 
