@@ -331,8 +331,7 @@ class Program
 		{
 			Console.WriteLine("João não possui mais de 18 anos, e não está acompanhado, não pode entrar.");
 		}
-		}		
-
+				
 	}
 }
 
