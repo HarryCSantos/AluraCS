@@ -297,15 +297,16 @@ class Program
 			Console.WriteLine("João possui mais de 18 anos de idade, pode entrar!");
 		}
 		else
+		{
 			if(quantidadePessoas >= 2)
 			{
-				Console.WriteLine("João não possui mais de 18 anos, mas está acompanhado e pode entrar!");
+				Console.WriteLine("João não possui mais de 18 anos, mas está acompanhado, pode entrar!");
 			}
 			else
 			{
 				Console.WriteLine("João não possui mais de 18 anos, e não está acompanhado, não pode entrar.");
 			}
-		
+		}		
 
 	}
 }
