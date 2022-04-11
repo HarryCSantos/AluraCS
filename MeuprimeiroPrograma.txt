@@ -361,11 +361,13 @@ class Program
 		if (idadeJoao >= 18 && acompanhado == true ) 
 		{
 			Console.WriteLine("Pode entrar!");
+			Console.WriteLine(mensagemAdicional);
 		}
 		
 		else
 		{
 			Console.WriteLine("Não pode entrar.");
+			Console.WriteLine(mensagemAdicional);
 		}
 				
 	}
