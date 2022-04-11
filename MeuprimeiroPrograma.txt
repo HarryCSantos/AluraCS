@@ -345,10 +345,14 @@ class Program
 	{
 		Console.WriteLine("Executando prática de condicionais if-else");
 
-		int idadeJoao =18;
-		//int quantidadePessoas = 2;
-		//bool acompanhado = quantidadePessoas >= 2; 
+		int idadeJoao =18; 
 		bool acompanhado = false;
+		string mensagemAdicional;
+		
+		if (acompanhado == true)
+		{
+
+		}
 		
 		if (idadeJoao >= 18 && acompanhado == true ) 
 		{
