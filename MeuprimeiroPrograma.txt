@@ -351,10 +351,14 @@ class Program
 		
 		if (acompanhado == true)
 		{
-
+			mensagemAdicional = "João está acompanhado";
+		}
+		else
+		{
+			mensagemAdicional = "João não está acompanhado";
 		}
 		
-		if (idadeJoao >= 18 || acompanhado == true ) 
+		if (idadeJoao >= 18 && acompanhado == true ) 
 		{
 			Console.WriteLine("Pode entrar!");
 		}
