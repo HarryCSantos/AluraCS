@@ -329,7 +329,7 @@ class Program
 		
 		else
 		{
-			Console.WriteLine("João não possui mais de 18 anos, e não está acompanhado, não pode entrar.");
+			Console.WriteLine("Não pode entrar.");
 		}
 				
 	}
