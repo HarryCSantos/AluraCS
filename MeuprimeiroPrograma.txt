@@ -322,7 +322,7 @@ class Program
 		int idadeJoao =18;
 		//int quantidadePessoas = 2;
 		//bool acompanhado = quantidadePessoas >= 2; 
-		bool acompanhado = true;
+		bool acompanhado = false;
 		
 		if (idadeJoao >= 18 && acompanhado == true ) // No csharp o ou não é representado pelo or que é ou em inglês como em outras linguagens e sim pelo pipe essas duas barras na vertical || e o e no csharp se escreve com 2 ecomercial && quando nós utilizamos o e as duas condições precisam ser verdadeiras. O operador lógico que nós utilizamos para comparar igualdade no tipo booleano é ==
 		{
