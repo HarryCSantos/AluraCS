@@ -335,7 +335,7 @@ class Program
 		}
 				
 	}
-}	*/
+}	
 
 
 using System;
@@ -346,7 +346,7 @@ class Program
 		Console.WriteLine("Executando prática de condicionais if-else");
 
 		int idadeJoao =18; 
-		bool acompanhado = false;
+		bool acompanhado = true;
 		string mensagemAdicional;
 		
 		if (acompanhado == true)
@@ -370,6 +370,15 @@ class Program
 			Console.WriteLine(mensagemAdicional);
 		}
 				
+	}
+}	*/
+
+using System;
+class Progra
+{
+	static void Main(string[] args)
+	{
+		Console.WriteLine("Exercício Imposto de Renda");
 	}
 }
 
