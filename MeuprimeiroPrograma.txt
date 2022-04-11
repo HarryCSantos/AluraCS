@@ -354,7 +354,7 @@ class Program
 
 		}
 		
-		if (idadeJoao >= 18 && acompanhado == true ) 
+		if (idadeJoao >= 18 || acompanhado == true ) 
 		{
 			Console.WriteLine("Pode entrar!");
 		}
