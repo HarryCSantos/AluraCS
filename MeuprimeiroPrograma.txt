@@ -322,7 +322,7 @@ class Program
 		int idadeJoao =16;
 		int quantidadePessoas = 2;
 
-		if (idadeJoao >= 18)
+		if (idadeJoao >= 18 || ) // No csharp o ou não é representado pelo or que é ou em inglês como em outras linguagens e sim pelo pipe essas duas barras na vertical ||
 		{
 			Console.WriteLine("João possui mais de 18 anos de idade, pode entrar!");
 		}
