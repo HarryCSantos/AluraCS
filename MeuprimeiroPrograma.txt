@@ -320,7 +320,7 @@ class Program
 		Console.WriteLine("Executando prática de condicionais if-else");
 
 		int idadeJoao =16;
-		int quantidadePessoas = 2;
+		int quantidadePessoas = 1;
 
 		if (idadeJoao >= 18 || quantidadePessoas >= 2 ) // No csharp o ou não é representado pelo or que é ou em inglês como em outras linguagens e sim pelo pipe essas duas barras na vertical ||
 		{
