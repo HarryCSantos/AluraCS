@@ -290,7 +290,7 @@ class Program
 		Console.WriteLine("Executando prática de condicionais if-else");
 
 		int idadeJoao =16;
-		int quantidadePessoas = 1;
+		int quantidadePessoas = 2;
 
 		if (idadeJoao >= 18)
 		{
