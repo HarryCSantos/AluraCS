@@ -380,6 +380,9 @@ class Progra
 	{
 		Console.WriteLine("Digite o seu salário: ");
 		double sals = Console.Readline();
+
+		Console.WriteLine(sals);
+		Console.ReadLine();
 		
 		double salario = 4000.0;
 
