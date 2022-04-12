@@ -402,7 +402,7 @@ class Progra
 		}
 		else
 		{
-			Console.WriteLine("Agradeça a Deus, você não paga imposto de renda);
+			Console.WriteLine("Agradeça a Deus, você não paga imposto de renda");
 		}
 		
 	}
