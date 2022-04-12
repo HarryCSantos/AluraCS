@@ -386,17 +386,17 @@ class Progra
 		{
 			//double aliquote = 7.5;
 			double deducao1 = (salario - 142);
-			Console.WriteLine("O valor final do seu salário após a  dedução do imposto de renda será: " + deducao1);
+			Console.WriteLine("O valor final do seu salário após a  dedução do imposto de renda será: R$ " + deducao1);
 		}
 		if ( salario > 2800.0 && salario <= 3751.0)
 		{
 			double deducao2 = (salario - 350);
-			Console.WriteLine("O valor final do seu salário após a dedução do imposto de renda será: " + deducao2);
+			Console.WriteLine("O valor final do seu salário após a dedução do imposto de renda será: R$ " + deducao2);
 		}
 		if ( salario > 3751.01 && salario <= 4664.00)
 		{
 			double deducao3 = (salario - 636);
-			Console.WriteLine("O valor final do seu salário após a dedução do imposto de renda será: " + deducao3);
+			Console.WriteLine("O valor final do seu salário após a dedução do imposto de renda será: R$ " + deducao3);
 		}
 		
 	}
