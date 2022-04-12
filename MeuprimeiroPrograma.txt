@@ -379,8 +379,8 @@ class Progra
 	static void Main(string[] args)
 	{
 		Console.WriteLine("Digite o seu salário: ");
-		double salario = Console.ReadLine();
-		Console.WriteLine("Seu salário " + valor);		
+		double salario =Int32.Parse(Console.ReadLine());
+		Console.WriteLine("Seu salário " + salario);		
 
 		if ( salario > 1900.0 && salario <= 2800.0)
 		{
