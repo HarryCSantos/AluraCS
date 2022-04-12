@@ -378,9 +378,10 @@ class Progra
 {
 	static void Main(string[] args)
 	{
-		Console.WriteLine("Exercício Imposto de Renda");
+		Console.WriteLine("Digite o seu salário: ");
+		double sals = Console.Readline();
 		
-		double salario = 1035.0;
+		double salario = 4000.0;
 
 		if ( salario > 1900.0 && salario <= 2800.0)
 		{
@@ -402,7 +403,7 @@ class Progra
 		}
 		else
 		{
-			Console.WriteLine("O seu salário declarado é menor do que R$ 1900,00 Agradeça a Deus, você não paga imposto de renda");
+			Console.WriteLine("O seu salário declarado é menor do que R$ 1900,00 Agradeça a Deus, você não paga imposto de renda!");
 		}
 		
 	}
