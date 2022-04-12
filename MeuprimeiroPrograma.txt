@@ -402,7 +402,7 @@ class Progra
 		}
 		else
 		{
-			Console.WriteLine("Agradeça a Deus, você não paga imposto de renda");
+			Console.WriteLine("O seu salário declarado é menor do que R$ 1900,00 Agradeça a Deus, você não paga imposto de renda");
 		}
 		
 	}
