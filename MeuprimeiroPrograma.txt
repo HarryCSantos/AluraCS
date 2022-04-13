@@ -371,7 +371,7 @@ class Program
 		}
 				
 	}
-}	*/
+}	
 
 using System;
 class Progra
@@ -406,7 +406,17 @@ class Progra
 		}
 		
 	}
+}	*/
+
+using System
+class Program
+{
+	static void Main(string[] args)
+	{
+		Console.WriteLine("Trabalhando com laço de repetição switch");
+	}
 }
+
 
 
 
