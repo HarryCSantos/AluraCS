@@ -472,7 +472,7 @@ class Program
 	{
 		Console.WriteLine("Prática While - Calcula poupança");
 		
-		double valorInvestido = 1000;
+		double valorInvestido = 20000;
 
 		// 0.36% = 0.0036
 		valorInvestido = valorInvestido + valorInvestido * 0.0036;
