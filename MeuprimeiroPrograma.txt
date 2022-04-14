@@ -476,7 +476,7 @@ class Program
 
 		// 0.36% = 0.0036
 		valorInvestido = valorInvestido * 0.0036;
-		Console.Writeline("Após 1 mês, você terá R$ " + valorInvestido);
+		Console.WriteLine("Após 1 mês, você terá R$ " + valorInvestido);
 
 		Console.ReadLine();		
 
