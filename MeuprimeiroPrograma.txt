@@ -460,7 +460,7 @@ class Program
 			case 12: Console.WriteLine("O mês é Dezembro");
 				break;
 		}
-		Console.Readline();
+		
 
 	}
 }
