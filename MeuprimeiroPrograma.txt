@@ -427,10 +427,19 @@ class Program
 				Console.WriteLine("O mês é Janeiro");
 				break;
 			
-			case2: Console.WriteLine("O mês é Fevereiro);
+			case 2: Console.WriteLine("O mês é Fevereiro);
 				break;
 
-			case3: Console.WriteLine("O mês é Março");
+			case 3: Console.WriteLine("O mês é Março");
+				break;
+
+			case 4: Console.WriteLine("O mês é Abril");
+				break;
+
+			case 5: Console.WriteLine("O mês é Maio");
+				break;
+
+			case 6: Console.WriteLine("O mês é Junho");
 				break;
 
 	}
