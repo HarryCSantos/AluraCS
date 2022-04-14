@@ -406,7 +406,7 @@ class Progra
 		}
 		
 	}
-}	*/
+}	
 
 using System;
 class Program
@@ -462,6 +462,15 @@ class Program
 		}
 			Console.ReadLine();
 
+	}
+}	*/
+
+using System;
+class Program
+{
+	static void Main(string[] args)
+	{
+		Console.WriteLine("Prática While");
 	}
 }
 
