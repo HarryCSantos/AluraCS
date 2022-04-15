@@ -497,6 +497,14 @@ class Program
 	static void Main(string[] args)
 	{
 		Console.WriteLine("Trabalhando como laço de repetição For");
+
+		for(int contadorMes = 1; contadorMes <= 12; contadorMes = contadorMes + 1)
+		{
+
+		}
+
+		
+		
 		Console.ReadLine();
 	}
 }
