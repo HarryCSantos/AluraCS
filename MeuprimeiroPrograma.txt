@@ -519,6 +519,7 @@ class Program
 	{
 		Console.WriteLine("Pacotes de bancos mais lucrativos > poupança");
 		
+		double valorInvestido = 1000;
 		double fatorRendimento = 1.0036;
 		
 		for(int contadorAno = 1; contadorAno <= 5; contadorAno++)
