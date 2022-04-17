@@ -542,6 +542,15 @@ class Program
 	static void Main(string[] args)
 		{
 			Console.WriteLine("Trabalhando com Break");
+			
+			 // *
+			// **
+		       // ***
+		      // ****
+		     // *****
+		    // ******
+		   // *******
+		  // ********			
 
 
 			Console.ReadLine();
