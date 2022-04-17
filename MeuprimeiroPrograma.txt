@@ -1,4 +1,4 @@
-/*using System;
+m/*using System;
 
 class Program
 {	
@@ -510,7 +510,7 @@ class Program
 		
 		Console.ReadLine();
 	}
-}	*/
+}	
 
 using System;
 class Program
@@ -534,6 +534,19 @@ class Program
 
 		Console.ReadLine();
 	}
+}	*/
+
+
+using System;
+class Program
+{
+	static void Main(string[] args)
+		{
+			Console.WriteLine("Trabalhando com Break");
+
+
+			Console.ReadLine();
+		}
 }
 
 
