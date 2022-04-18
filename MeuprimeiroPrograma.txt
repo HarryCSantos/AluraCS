@@ -550,7 +550,13 @@ class Program
 		     // *****
 		    // ******
 		   // *******
-		  // ********			
+		  // ********		
+
+		for(int contadorLinha = 0; contadorLinha <= 10; contadorLinha++)
+		{
+			for(int contadorColuna = 0; contadorColuna < 10; contadorColuna++)
+			Console.WriteLine(); // quando eu coloco o write line sem nenhum argumento ele pula a linha
+		}	
 
 
 			Console.ReadLine();
