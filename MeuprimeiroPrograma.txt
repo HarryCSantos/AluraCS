@@ -642,7 +642,14 @@ class Program
 		{
 			Console.WriteLine("Praticando C#");
 
-		Console.ReadLine();
+			while (contador <= 10)
+			{
+				int contador = 1;
+				Console.WriteLine(contador); 
+				contador++;
+			}
+			
+			Console.ReadLine();
 		}
 }
 
