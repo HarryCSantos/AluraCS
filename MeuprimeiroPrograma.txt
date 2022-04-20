@@ -605,6 +605,13 @@ class Program
 	static void Main(string[] args)
 		{
 			Console.WriteLine("Revisando conteúdo C#");
+
+			int contador = 0;
+			while(contador <= 10)
+			{
+				Console.WriteLine(contador);
+				contador = contador + 1;
+			}
 		
 			
 
