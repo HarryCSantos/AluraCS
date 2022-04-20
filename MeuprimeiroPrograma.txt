@@ -610,7 +610,7 @@ class Program
 			while(contador <= 10)
 			{
 				Console.WriteLine(contador);
-				contador = contador + 1;
+				contador = contador += 1;
 			}
 		
 			
