@@ -643,13 +643,13 @@ class Program
 			Console.WriteLine("Praticando C#");
 
 			int contador = 1;			
-			contador++;
+			
 
 			while (contador <= 10)
 			{
 				
 				Console.WriteLine(contador); 
-				
+				contador++;
 			}
 			
 			Console.ReadLine();
