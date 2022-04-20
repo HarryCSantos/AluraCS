@@ -597,7 +597,7 @@ class Program
 		}
 
 	}
-}	*/
+}	
 
 using System;
 class Program
@@ -613,6 +613,18 @@ class Program
 				contador = contador ++;
 			}
 		
+			
+
+			Console.ReadLine();
+		}
+}	*/
+
+using System;
+class Program
+{
+	static void Main(string[] args)
+		{
+			Console.WriteLine("Prática C#");
 			
 
 			Console.ReadLine();
