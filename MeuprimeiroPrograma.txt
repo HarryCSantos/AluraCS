@@ -633,7 +633,7 @@ class Program
 
 			Console.ReadLine();
 		}
-}	*/
+}	
 
 using System;
 class Program
@@ -654,6 +654,18 @@ class Program
 			
 			Console.ReadLine();
 		}
+}	*/
+
+using System;
+class Program
+{
+	static void Main(string[] args)
+	{
+		Console.WriteLine("Mais um dia de prática - C#");
+	
+
+		Console.ReadLine();
+	}
 }
 
 
