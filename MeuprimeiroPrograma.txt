@@ -663,11 +663,11 @@ class Program
 	{
 		Console.WriteLine("Mais um dia de prática - C#");
 	
-		for(int linha = 0; linha <5; linha++)
+		for(int linha = 0; linha < 5; linha++)
 		{
 			for(int coluna = 0; coluna < 5; coluna++)
 			{
-				if(coluna > linha && coluna+1)
+				if(coluna > linha && coluna <5)
 				{
 					break;
 				}
