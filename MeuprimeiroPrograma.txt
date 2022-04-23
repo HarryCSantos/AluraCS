@@ -731,7 +731,7 @@ class Program
 
 			for (int multiplicador = 1; multiplicador <= 20; multiplicador++)
 			{
-				for (int contador = 0; contador <= 10; contador++)
+				for (int contador = 0; contador <= 20; contador++)
 				{
 					Console.Write(multiplicador + " * " + contador + " = " + multiplicador * contador);
 					Console.WriteLine();
