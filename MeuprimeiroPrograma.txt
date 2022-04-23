@@ -654,7 +654,7 @@ class Program
 			
 			Console.ReadLine();
 		}
-}	*/
+}	
 
 
 using System;
@@ -672,7 +672,7 @@ class Program
 				{
 					break;
 				}
-				Console.Write(:));
+				Console.Write(coluna);
 			}
 
 
@@ -681,6 +681,41 @@ class Program
 		
 		}
 	}
+}	*/
+
+
+using System;
+class Program
+{
+	static void Main(string[] args)
+		{
+			Console.WriteLine("Trabalhando com Break");
+			
+			// *
+			// **
+			// ***
+			// ****
+			// *****
+			// ******
+			// *******
+			// ********
+			// *********
+		
+			
+		for(int contadorLinha = 0; contadorLinha < 10; contadorLinha++)
+		{
+			for(int contadorColuna = 0; contadorColuna <= contadorLinha; contadorColuna++)
+			{
+				Console.Write("*");
+				if (contadorColuna >= contadorLinha)
+					break;
+			}
+			Console.WriteLine(); // quando eu coloco o write line sem nenhum argumento ele pula a linha
+		}	
+
+
+			Console.ReadLine();
+		}
 }	
 
 
