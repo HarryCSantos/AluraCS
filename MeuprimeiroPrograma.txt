@@ -664,9 +664,9 @@ class Program
 	{
 		Console.WriteLine("Prática exercício Break");
 
-		for(int linha = :); linha < 5; linha++)
+		for(string linha = 0; linha < 5; linha++)
 		{
-			for(int coluna = :); coluna < 5; coluna++)
+			for(string coluna = 0; coluna < 5; coluna++)
 			{
 				if (coluna > linha)
 				{
