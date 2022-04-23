@@ -706,7 +706,9 @@ class Program
 		{
 			for(int contadorColuna = 0; contadorColuna <= contadorLinha; contadorColuna++)
 			{
-				Console.Write(":)");
+				Console.Write(" |O|");
+				Console.Write("  | ");
+				Console.Write(" / \ ");
 				if (contadorColuna >= contadorLinha)
 					break;
 			}
