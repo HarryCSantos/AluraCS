@@ -708,7 +708,7 @@ class Program
 			{
 				Console.Write(" |O|");
 				Console.Write("  | ");
-				Console.Write(" / \ ");
+				Console.Write(" - -");
 				if (contadorColuna >= contadorLinha)
 					break;
 			}
