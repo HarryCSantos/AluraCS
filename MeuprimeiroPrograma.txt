@@ -672,7 +672,7 @@ class Program
 				{
 					break;
 				}
-				Console.Write(coluna+1);
+				Console.Write(:));
 			}
 
 
