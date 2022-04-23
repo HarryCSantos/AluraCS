@@ -654,29 +654,6 @@ class Program
 			
 			Console.ReadLine();
 		}
-}	
-
-using System;
-class Program
-{
-	static void Main(string[] args)
-	{
-		Console.WriteLine("Mais um dia de prática - C#");
-	
-		for(int linha = 0; linha < 5; linha++)
-		{
-			for(int coluna = 0; coluna < 5; coluna++)
-			{
-				if(coluna > linha)
-				{
-					break;
-				}
-					Console.Write(coluna+1);
-			}
-		}
-
-		Console.ReadLine();
-	}
 }	*/
 
 
