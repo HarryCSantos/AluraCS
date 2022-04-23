@@ -736,9 +736,8 @@ class Program
 					Console.Write(multiplicador + " * " + contador + " = " + multiplicador * contador);
 					Console.WriteLine();
 				}
+				Console.WriteLine();		
 			}
-
-
 			Console.ReadLine();
 		}
 }
