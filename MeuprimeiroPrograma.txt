@@ -790,7 +790,11 @@ class Program
 {
 	static void Main(string[] args)
 		{
-			Console.WriteLine("Uma forma mais simples - Múltiplos de 3");
+			Console.WriteLine("Uma forma mais simples - Múltiplos de 3");	
+			for (int i = 3; i < 100; i += 3)
+			{
+				Console.WriteLine(i);
+			}			
 
 			Console.ReadLine();
 		}
