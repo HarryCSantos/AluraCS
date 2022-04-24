@@ -826,9 +826,9 @@ class Program
 		{
 			Console.WriteLine("Revisão conteúdo Alura | C#");
 
-			int idade: 10;
+			int idade = 10;
 			
-			Console.WriteLine(idade);
+			Console.WriteLine(idade * 3);
 
 			Console.ReadLine();
 		}
