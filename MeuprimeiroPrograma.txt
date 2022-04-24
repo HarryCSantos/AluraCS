@@ -823,39 +823,14 @@ using System;
 class Program
 {
 	static void Main(string[] args)
-	{
-		Console.WriteLine("Executando prática de condicionais if-else");
+		{
+			Console.WriteLine("Revisão conteúdo Alura | C#");
 
-		int idadeJoao =18; 
-		bool acompanhado = true;
-		string mensagemAdicional;
-		
-		if (acompanhado == true)
-		{
-			mensagemAdicional = "João está acompanhado";
-		}
-		else
-		{
-			mensagemAdicional = "João não está acompanhado";
-		}
-		
-		if (idadeJoao >= 18 && acompanhado == true ) 
-		{
-			Console.WriteLine("Pode entrar!");
-			Console.WriteLine(mensagemAdicional);
-		}
-		
-		else
-		{
-			Console.WriteLine("Não pode entrar.");
-			Console.WriteLine(mensagemAdicional);
-		}
-				
-	}
-}	
-		
 			
 
+			Console.ReadLine();
+		}
+}
 
 
 
