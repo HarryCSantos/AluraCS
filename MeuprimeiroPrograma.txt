@@ -764,7 +764,7 @@ class Program
 			Console.ReadLine();
 			}
 		}
-}	*/
+}	
 
 using System;
 class Program 
@@ -783,6 +783,17 @@ class Program
 		}
 		Console.ReadLine();
 	}
+}	*/
+
+using System;
+class Program 
+{
+	static void Main(string[] args)
+		{
+			Console.WriteLine("Uma forma mais simples - Múltiplos de 3");
+
+			Console.ReadLine();
+		}
 }
 
 
