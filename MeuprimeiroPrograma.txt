@@ -798,7 +798,7 @@ class Program
 
 			Console.ReadLine();
 		}
-}	*/
+}	
 
 using System;
 using System.Collections.Generic;
@@ -816,7 +816,42 @@ class Programa
             Console.WriteLine("Fatorial de " + i + " = " + fatorial);
         }
     }
-}
+}	*/
+
+using System;
+
+	class Program
+	{
+
+	    static void Main(String[] args)
+	     {
+		Console.WriteLine("  .-. ");
+		Console.WriteLine(" (o o)");
+		Console.WriteLine(" | O |");
+		Console.WriteLine(" |   |");
+		Console.WriteLine(" '~~~'");
+
+		Console.WriteLine("   c_     ___");
+		Console.WriteLine("   \\\\  __|__|__   I'm Awesome!");
+		Console.WriteLine("     \\  ( o_o )");
+		Console.WriteLine("         > ~ >");
+		Console.WriteLine("        /   / \\\\");
+		Console.WriteLine("       /   /   \\\\");
+		Console.WriteLine("       \\  )    c/");
+		Console.WriteLine("       / /");
+		Console.WriteLine("      / /|");
+		Console.WriteLine("     (  ( \\");
+		Console.WriteLine("     |  |  \\");
+		Console.WriteLine("     | / \\  )");
+		Console.WriteLine("     | |  ) |");
+		Console.WriteLine("     / ) (_/");
+		Console.WriteLine("    (_ /");
+
+		
+			
+             }
+	}	
+
 
 
 
