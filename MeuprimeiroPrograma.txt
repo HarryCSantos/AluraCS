@@ -757,7 +757,7 @@ class Program
 					{
 						break;
 					}
-					Console.Write("*");	
+					Console.Write("harry");	
 				}
 			
 			Console.ReadLine();
