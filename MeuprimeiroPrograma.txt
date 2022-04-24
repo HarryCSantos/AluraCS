@@ -828,8 +828,10 @@ class Program
 
 			int idade = 10;
 			double salario = 1938.43;
+			string nome = "Harry";
+			char eu = 'H';
 			
-			Console.WriteLine("Você tem " + idade + " anos e o seu salário é de R$ " + salario);
+			Console.WriteLine("Você tem " + idade + " anos e o seu salário é de R$ " + salario + nome + " A primeira letra do seu nome " + eu);
 
 			Console.ReadLine();
 		}
