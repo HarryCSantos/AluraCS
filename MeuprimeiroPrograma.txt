@@ -831,7 +831,7 @@ class Program
 			string nome = "Harry";
 			char eu = 'H';
 			
-			Console.WriteLine("Você tem " + idade + " anos e o seu salário é de R$ " + salario + " " + nome + " A primeira letra do seu nome " + eu);
+			Console.WriteLine("Você tem " + idade + " anos e o seu salário é de R$ " + salario + " " + nome + " A primeira letra do seu nome é " + eu);
 
 			Console.ReadLine();
 		}
