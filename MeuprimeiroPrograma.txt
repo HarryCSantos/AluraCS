@@ -827,7 +827,7 @@ class Program
 			Console.WriteLine("Revisão conteúdo Alura | C#");
 
 			int idade = 10;
-			double salario = 1938,43
+			double salario = 1938.43;
 			
 			Console.WriteLine("Você tem " + idade + " e o seu salário é de R$ : " + salario);
 
