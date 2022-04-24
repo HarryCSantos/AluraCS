@@ -749,7 +749,19 @@ class Program
 		{
 			Console.WriteLine("Práticando C# mais um dia");
 
+			for (int linha = 0; linha < 10; linha++)
+			{
+				for(int coluna = 0; coluna < 10; coluna++)
+				{
+					if(coluna > linha)
+					{
+						break;
+					}
+					Console.Write("*");	
+				}
+			
 			Console.ReadLine();
+			}
 		}
 }
 
