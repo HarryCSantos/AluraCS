@@ -818,39 +818,44 @@ class Programa
     }
 }	*/
 
+
 using System;
-
-	class Program
+class Program
+{
+	static void Main(string[] args)
 	{
+		Console.WriteLine("Executando prática de condicionais if-else");
 
-	    static void Main(String[] args)
-	     {
-		Console.WriteLine("  .-. ");
-		Console.WriteLine(" (o o)");
-		Console.WriteLine(" | O |");
-		Console.WriteLine(" |   |");
-		Console.WriteLine(" '~~~'");
-
-		Console.WriteLine("   c_     ___");
-		Console.WriteLine("   \\\\  __|__|__   I'm Awesome!");
-		Console.WriteLine("     \\  ( o_o )");
-		Console.WriteLine("         > ~ >");
-		Console.WriteLine("        /   / \\\\");
-		Console.WriteLine("       /   /   \\\\");
-		Console.WriteLine("       \\  )    c/");
-		Console.WriteLine("       / /");
-		Console.WriteLine("      / /|");
-		Console.WriteLine("     (  ( \\");
-		Console.WriteLine("     |  |  \\");
-		Console.WriteLine("     | / \\  )");
-		Console.WriteLine("     | |  ) |");
-		Console.WriteLine("     / ) (_/");
-		Console.WriteLine("    (_ /");
-
+		int idadeJoao =18; 
+		bool acompanhado = true;
+		string mensagemAdicional;
+		
+		if (acompanhado == true)
+		{
+			mensagemAdicional = "João está acompanhado";
+		}
+		else
+		{
+			mensagemAdicional = "João não está acompanhado";
+		}
+		
+		if (idadeJoao >= 18 && acompanhado == true ) 
+		{
+			Console.WriteLine("Pode entrar!");
+			Console.WriteLine(mensagemAdicional);
+		}
+		
+		else
+		{
+			Console.WriteLine("Não pode entrar.");
+			Console.WriteLine(mensagemAdicional);
+		}
+				
+	}
+}	
 		
 			
-             }
-	}	
+
 
 
 
