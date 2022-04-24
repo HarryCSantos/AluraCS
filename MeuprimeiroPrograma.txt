@@ -757,7 +757,8 @@ class Program
 					{
 						break;
 					}
-					Console.Write("*");	
+					Console.Write("*");
+					Console.Write("|");	
 				}
 			
 			Console.ReadLine();
