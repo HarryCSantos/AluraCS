@@ -844,7 +844,9 @@ class Program
 	{
 		Console.WriteLine("Executando prática de condicionais if-else");
 
-		int idadeJoao =18; 
+		//int idadeJoao =18;
+		  string time = "Palmeiras";  
+
 		bool acompanhado = true;
 		string mensagemAdicional;
 		
