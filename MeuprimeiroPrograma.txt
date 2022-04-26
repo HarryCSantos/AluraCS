@@ -861,7 +861,7 @@ class Program
 			mensagemAdicional = "Palmeiras não tem mundial";
 		}
 		
-		if (time = Palmeiras && temMundial == true ) 
+		if (temMundial == true ) 
 		{
 			Console.WriteLine("Incrivel");
 			Console.WriteLine(mensagemAdicional);
