@@ -847,27 +847,29 @@ class Program
 		//int idadeJoao =18;
 		  string time = "Palmeiras";  
 
-		bool acompanhado = true;
+		//bool acompanhado = true;
+		  bool temMundial = false;
+
 		string mensagemAdicional;
 		
-		if (acompanhado == true)
+		if (temMundial == true)
 		{
-			mensagemAdicional = "João está acompanhado";
+			mensagemAdicional = "Palmeiras é campeão mundial";
 		}
 		else
 		{
-			mensagemAdicional = "João não está acompanhado";
+			mensagemAdicional = "Palmeiras não tem mundial";
 		}
 		
-		if (idadeJoao >= 18 && acompanhado == true ) 
+		if (time = Palmeiras && temMundial == true ) 
 		{
-			Console.WriteLine("Pode entrar!");
+			Console.WriteLine("Incrivel");
 			Console.WriteLine(mensagemAdicional);
 		}
 		
 		else
 		{
-			Console.WriteLine("Não pode entrar.");
+			Console.WriteLine("Infelizmente");
 			Console.WriteLine(mensagemAdicional);
 		}
 				
