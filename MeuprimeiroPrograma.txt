@@ -848,7 +848,7 @@ class Program
 		  string time = "Palmeiras";  
 
 		//bool acompanhado = true;
-		  bool temMundial = false;
+		  bool temMundial = true;
 
 		string mensagemAdicional;
 		
