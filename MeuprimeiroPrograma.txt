@@ -838,44 +838,15 @@ class Program
 }	*/
 
 using System;
-
 class Program
 {
-	static void Main()
-	{
-		DateTime now = DateTime.Now;
-		Console.WriteLine(now);
-
-		int maxValue = int.MaxValue;
-		Console.WriteLine(maxValue);
-
-		int minValue = int.MinValue;
-		Console.WriteLine(minValue);
-
-		string name = "harry";
-		string nameUpper = name.ToUpper();
-		Console.WriteLine(nameUpper);
+	static void Main(string[] args);
+		{
+			Console.WriteLine("Prática diária C#");
 		
-		int teste = 2147483647; // This is the Max Number of int any number upper this don't will be compiled.
-		Console.WriteLine(teste);
-
-		int alias = 100;
-		Console.WriteLine(alias);
-
-		Int32 alia = 100;
-		Console.WriteLine(alia);
-
-		int age = 30; // Const don't allow change the value 
-		age = 30;
-		Console.WriteLine(age);
-
-		
-		
-		
+			Console.ReadLine();
+		}
 }
-	}	
-
-
 
 
 
