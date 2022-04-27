@@ -844,17 +844,15 @@ class Program
 	{
 		Console.WriteLine("Executando prática de condicionais if-else");
 
-		//int idadeJoao =18;
-		  string time = "Palmeiras";  
-
-		//bool acompanhado = true;
-		  bool temMundial = true;
+		int vitoria = 3;
+		int empate = 1;
+		int derrote = 0;		
 
 		string mensagemAdicional;
 		
-		if (temMundial == true)
+		if (ganhar == true)
 		{
-			mensagemAdicional = "Palmeiras é campeão mundial";
+			mensagemAdicional = "Ganha 3 pontos";
 		}
 		else
 		{
