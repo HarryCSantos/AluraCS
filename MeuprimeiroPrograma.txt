@@ -846,30 +846,13 @@ class Program
 
 		int vitoria = 3;
 		int empate = 1;
-		int derrote = 0;		
+		int derrota = 0;		
 
-		string mensagemAdicional;
-		
-		if (ganhar == true)
-		{
-			mensagemAdicional = "Ganha 3 pontos";
-		}
-		else
-		{
-			mensagemAdicional = "Palmeiras não tem mundial";
-		}
-		
-		if (temMundial == true ) 
-		{
-			Console.WriteLine("Incrivel");
-			Console.WriteLine(mensagemAdicional);
-		}
-		
-		else
-		{
-			Console.WriteLine("Infelizmente");
-			Console.WriteLine(mensagemAdicional);
-		}
+		Console.WriteLine("Ao vencer uma partida o time soma " + vitoria + " pontos");
+		Console.WriteLine("Ao empatar uma partida o time soma " + empate + " pontos");
+		Console.WriteLine("Ao perder uma partida o tima soma " + derrota + " pontos");
+
+		Console.Readline();
 				
 	}
 }	
