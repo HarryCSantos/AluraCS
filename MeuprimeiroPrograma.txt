@@ -852,7 +852,7 @@ class Program
 		Console.WriteLine("Ao empatar uma partida o time soma " + empate + " pontos");
 		Console.WriteLine("Ao perder uma partida o tima soma " + derrota + " pontos");
 
-		Console.Readline();
+		
 				
 	}
 }	
