@@ -864,14 +864,19 @@ class Program
 		{
 			Console.WriteLine("Prátiva diária c#");
 			
-			int idade = 19;
+			int idade = 14;
+			int acompanhado = 2;
 			
 			if(idade >=18){
 				Console.WriteLine("Pode entrar!");
 			}
 			else{
 				Console.WriteLine("Não Pode entrar!");
-
+			    }
+			if(acompanhado > 1 && idade >=16){
+				Console.WriteLine("Você possui " + idade + " anos e está acompanhado pode entrar");
+			}
+			    
 
 
 
