@@ -867,8 +867,10 @@ class Program
 			int idade = 19;
 			
 			if(idade >=18){
-				Console.WriteLine("Pode entrar");
+				Console.WriteLine("Pode entrar!");
 			}
+			else{
+				Console.WriteLine("Não Pode entrar!");
 
 
 
