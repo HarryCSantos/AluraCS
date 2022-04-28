@@ -866,11 +866,11 @@ class Program
 			
 			idade = 19;
 			
-			if(idade >= 18)
-			{
-			Console.WriteLine("Pode entrar" + idade);
+			if(idade >=18){
+				Console.WriteLine("Pode entrar");
 			}
-			
+
+
 
 
 			Console.ReadLine();
