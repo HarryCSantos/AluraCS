@@ -835,7 +835,7 @@ class Program
 
 			Console.ReadLine();
 		}
-}	*/
+}	
 
 using System;
 class Program
@@ -855,7 +855,20 @@ class Program
 		
 				
 	}
-}	
+}	*/
+
+using System;
+class Program
+{
+	static void Main(string[] args)
+		{
+			Console.WriteLine("Prátiva diária c#");
+			
+
+
+			Console.ReadLine();
+		}
+}
 
 
 
