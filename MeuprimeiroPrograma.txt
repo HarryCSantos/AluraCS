@@ -864,6 +864,13 @@ class Program
 		{
 			Console.WriteLine("Prátiva diária c#");
 			
+			idade = 19;
+			
+			if(idade >= 18);
+			{
+			Console.WriteLine("Pode entrar");
+			}
+			
 
 
 			Console.ReadLine();
