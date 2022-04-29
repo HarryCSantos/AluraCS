@@ -865,6 +865,7 @@ class Program
 			Console.WriteLine("Praticando C# mais um dia de alegria");
 			
 			multiplicador = 3;
+			contador = 1;			
 
 			for (contador = 1; contador <= 10; contador++){
 				Console.WriteLine(multiplicador * contador);
