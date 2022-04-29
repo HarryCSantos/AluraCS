@@ -868,7 +868,7 @@ class Program
 
 			for (contador = 1; contador <= 10; contador++){
 				Console.WriteLine(multiplicador * contador);
-				
+				}
 			Console.ReadLine();
 		}
 }
