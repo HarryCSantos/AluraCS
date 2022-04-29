@@ -862,33 +862,11 @@ class Program
 {
 	static void Main(string[] args)
 		{
-			Console.WriteLine("Prátiva diária c#");
-			
-			int idade = 18;
-			int acompanhado = 1;
-			
-			if(idade >=18){
-				Console.WriteLine("Pode entrar sozinho!");
-			}
-			
-			if(acompanhado > 1 && idade >=16){
-				Console.WriteLine("Você possui " + idade + " anos e está acompanhado pode entrar");
-			}
-			else{
-				Console.WriteLine("Não Pode entrar!");
-			    }
-			
-			    
-
-
+			Console.WriteLine("Praticando C# mais um dia de alegria");
 
 			Console.ReadLine();
 		}
 }
-
-
-
-
 
 
 
