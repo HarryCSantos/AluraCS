@@ -13,7 +13,10 @@ namespace _01_ByteBank
             ContaDaGabriela.numero = 863452;
             ContaDaGabriela.saldo = 100;
 
-            Console.WriteLine(ContaDaGabriela.titular);
+            Console.WriteLine("Titular: " + ContaDaGabriela.titular);
+            Console.WriteLine("Agência: " + ContaDaGabriela.agencia);
+            Console.WriteLine("Número: " + ContaDaGabriela.numero);
+            Console.WriteLine("Saldo " + ContaDaGabriela.saldo);
             
 
             Console.ReadLine();
