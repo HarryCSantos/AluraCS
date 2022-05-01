@@ -1,0 +1,15 @@
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.exe
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.deps.json
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\ref\01-ByteBank.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.pdb
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\ref\01-ByteBank.dll
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.pdb
+C:\Users\harry\Desktop\My-Projects\AprendendoCSharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.genruntimeconfig.cache
