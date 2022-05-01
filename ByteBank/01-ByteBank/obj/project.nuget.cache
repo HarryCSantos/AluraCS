@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d6lluBkJMLc3zhr8/GxZvER3JiQOfde+IxhepQ4lbvyCVQGNNw2fvVdasMPi+NKl7wUCAXKU863fW5LIl6Ju1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AprendendoCSharp\\ByteBank\\01-ByteBank\\01-ByteBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
