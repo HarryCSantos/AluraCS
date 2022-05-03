@@ -16,7 +16,16 @@ namespace _03_ByteBank
             contaDaGabrielaCosta.agencia = 863;
             contaDaGabrielaCosta.numero = 863452;
 
+            int idade = 27;
+            int idadeMaisUmavez = 27;
+
+            Console.WriteLine("Igualdade de tipo de referência: " + (contaDaGabriela == contaDaGabrielaCosta));
+            Console.WriteLine("Igualdade de tipo de valor: " + (idade == idadeMaisUmavez));
+
+            contaDaGabriela = contaDaGabrielaCosta;
             Console.WriteLine(contaDaGabriela == contaDaGabrielaCosta);
+
+            Console.ReadLine();
         }
     }
 }
