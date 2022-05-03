@@ -867,7 +867,7 @@ class Program
 			int idade = 32;		
 
 			
-				Console.WriteLine(idade * 2);
+				Console.WriteLine(idade * 2 - 5);
 				
 			Console.ReadLine();
 		}
