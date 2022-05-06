@@ -11,7 +11,14 @@ namespace _04_ByteBank
             contaDoMiguel.titular = "Miguel";
 
             Console.WriteLine(contaDoMiguel.saldo);
-            contaDoMiguel.Sacar(50);
+
+            bool resultadodoSaque = contaDoMiguel.Sacar(500);
+
+            contaDoMiguel.Sacar(500);
+            Console.WriteLine(contaDoMiguel.saldo);
+            Console.WriteLine(resultadodoSaque);
+
+            contaDoMiguel.Depositar(1000);
             Console.WriteLine(contaDoMiguel.saldo);
 
             Console.ReadLine();
