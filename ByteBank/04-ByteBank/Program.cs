@@ -28,8 +28,10 @@ namespace _04_ByteBank
 
             contaDoMiguel.Transferir(300, contadaMaria);
 
-            Console.WriteLine("Saldo do Miguel: " + contaDoMiguel);
-            Console.WriteLine("Saldo da Maria: " + contadaMaria);
+            Console.WriteLine("Saldo do Miguel: " + contaDoMiguel.saldo
+                );
+            Console.WriteLine("Saldo da Maria: " + contadaMaria.saldo
+                );
 
             bool resultadoTranferencia = contaDoMiguel.Transferir(200, contadaMaria);
 
