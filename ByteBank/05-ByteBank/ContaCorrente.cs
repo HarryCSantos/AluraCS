@@ -1,6 +1,6 @@
 ﻿public class ContaCorrente
 {
-    public string titular;
+    public _05_ByteBank.Cliente titular;
     public int agencia;
     public int numero;
     public double saldo = 100;
